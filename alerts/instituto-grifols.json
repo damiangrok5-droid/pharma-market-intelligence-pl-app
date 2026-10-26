@@ -1,0 +1,18 @@
+{
+"company": "Instituto Grifols",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "News – AOTMiT:bwv6be",
+"kind": "News – AOTMiT",
+"date": "2026-10-12",
+"deadline": false,
+"title": "RP 42/2026 (2026-10-12): opinia – Przygotowanie opinii w sprawie kontynuacji refundacji immunoglobulin we wskazaniu pozareje",
+"detail": "Programy: B.67",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261012%20Porz%C4%85dek%20obrad.pdf#p6"
+}
+]
+}

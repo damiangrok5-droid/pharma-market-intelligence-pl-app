@@ -1,0 +1,238 @@
+{
+"company": "Amgen",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "Przetarg – termin ofert:1ldbv6x",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-27",
+"deadline": true,
+"title": "GÓRNOŚLĄSKIE CENTRUM ZDROWIA DZIECKA im. św. JANA PAWŁA II Samodzielny Publiczny Szpital Kliniczny Nr 6 Śląskiego Uniwersytetu Medycznego w Katowicach: termin składania ofert 2026-10-27",
+"detail": "adalimumab · 1 części · Katowice (śląskie)",
+"source": "TED 640334-2026 (publ. 2026-09-17)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/640334-2026"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:6j97es",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-28",
+"deadline": true,
+"title": "RP 45/2026: Keytruda (pembrolizumab) – stanowisko",
+"detail": "Firma: Merck Sharp & Dohme. Programy: B.6. Przygotowanie stanowisk w sprawie oceny leku Keytruda (pembrolizumab) w ramach programów lekowych: • B.58. „Leczenie chorych na raka przełyku, połączenia żołądkowo- przełykowego i żołądka (ICD-10: C15-C16)”, • B.5. „Lecz",
+"source": "AOTMiT BIP – porządek obrad RP 45/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "Przetarg – termin ofert:1onjx0u",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-30",
+"deadline": true,
+"title": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach: termin składania ofert 2026-10-30",
+"detail": "adalimumab · 1 części · Katowice (śląskie)",
+"source": "TED 714998-2026 (publ. 2026-10-15)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/714998-2026"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:171xui5",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-11-02",
+"deadline": true,
+"title": "RP 46/2026: Tevimbra (tislelizumabum) – stanowisko",
+"detail": "Firma: BeiGene. Programy: B.6. Przygotowanie stanowiska w sprawie oceny leku Tevimbra (tislelizumabum), w ramach programu lekowego B.6. „Leczenie chorych na raka płuca (ICD-10: C34) oraz międzybłoniaka opłucnej (ICD-10: C45)”.",
+"source": "AOTMiT BIP – porządek obrad RP 46/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "Przetarg – termin ofert:7wcuq3",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-02",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Stefana Żeromskiego SPZOZ w Krakowie: termin składania ofert 2026-11-02",
+"detail": "adalimumab · 3 części · Kraków (małopolskie)",
+"source": "TED 683266-2026 (publ. 2026-10-05)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/683266-2026"
+},
+{
+"id": "Przetarg – termin ofert:s13i0",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "SZPITAL UNIWERSYTECKI W KRAKOWIE: termin składania ofert 2026-11-03",
+"detail": "adalimumab · 1 części · Kraków (małopolskie)",
+"source": "TED 678366-2026 (publ. 2026-10-02)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/678366-2026"
+},
+{
+"id": "Przetarg – termin ofert:1i4bfl8",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "Szpital Specjalistyczny Ducha Świętego w Sandomierzu: termin składania ofert 2026-11-03",
+"detail": "adalimumab · 1 części · Sandomierz (świętokrzyskie)",
+"source": "TED 678985-2026 (publ. 2026-10-02)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/678985-2026"
+},
+{
+"id": "Przetarg – termin ofert:412gb5",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-05",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Stefana Żeromskiego SPZOZ w Krakowie: termin składania ofert 2026-11-05",
+"detail": "adalimumab · 3 części · Kraków (małopolskie)",
+"source": "TED 730762-2026 (publ. 2026-10-22)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/730762-2026"
+},
+{
+"id": "Przetarg – termin ofert:p1txdx",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-24",
+"deadline": true,
+"title": "STOBRAWSKIE CENTRUM MEDYCZNE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: termin składania ofert 2026-11-24",
+"detail": "adalimumab · 1 części · Kup (opolskie)",
+"source": "TED 719904-2026 (publ. 2026-10-19)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/719904-2026"
+},
+{
+"id": "News – AOTMiT:15a9jeq",
+"kind": "News – AOTMiT",
+"date": "2026-11-02",
+"deadline": false,
+"title": "RP 46/2026 (2026-11-02): stanowisko – Tevimbra (tislelizumabum)",
+"detail": "Programy: B.6 · Marki: Tevimbra",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf#p2"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:lirv9s",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Ninlaro: Zmiana: Urzędowa cena zbytu",
+"detail": "B.54 · 17 820,00 zł → 15 681,60 zł (−12,0%) · 3 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1r6g42b",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Ninlaro: Zmiana: Limit finansowania",
+"detail": "B.54 · 14 481,72 zł → 12 743,92 zł (−12,0%) · 3 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1g74tt9",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Eylea: Zmiana: Urzędowa cena zbytu",
+"detail": "B.70 · 6 350,41 zł → 4 762,80 zł (−25,0%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1mjwp54",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Tecartus: Zmiana: Urzędowa cena zbytu",
+"detail": "B.65 · 1 317 600,00 zł → 1 259 459,28 zł (−4,4%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:66numj",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Tecartus: Zmiana: Limit finansowania",
+"detail": "B.65 · 1 319 760,00 zł → 1 261 619,28 zł (−4,4%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – nowy wpis konkurenta:vx934f",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Epysqli: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.95, B.96 · – → B.95.; B.96.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wzrost udziału konkurenta:12uxztm",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Janssen +5,6 pp w Szpiczak plazmocytowy",
+"detail": "pacjenci 3789 → 4769 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1yqic0h",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Accord Healthcare +10,6 pp w Szpiczak plazmocytowy",
+"detail": "pacjenci 1444 → 3273 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1t4afl2",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "STADA Arzneimittel +2,2 pp w Szpiczak plazmocytowy",
+"detail": "pacjenci 889 → 1265 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1aay9u0",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "AstraZeneca +1,1 pp w Rak płuca",
+"detail": "pacjenci 2885 → 3439 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:11brz9y",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Regeneron Ireland Designated Activity Company (DAC) +1,7 pp w Rak płuca",
+"detail": "pacjenci 165 → 437 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "AOTMiT – decyzja:16l98c6",
+"kind": "AOTMiT – decyzja",
+"date": "2026-09-11",
+"deadline": false,
+"title": "Aspaveli – rek. 137/2026 (zlecenie 119/2026): rekomendacja/stanowisko",
+"detail": "B.96 pozytywna mieszana w wykazie – decyzja po rekomendacji jeszcze nie wydana (oczekuje 45 dni)",
+"source": "AOTMiT 119/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9706-119-2026-zlc"
+},
+{
+"id": "AOTMiT – decyzja:lkzd2u",
+"kind": "AOTMiT – decyzja",
+"date": "2026-08-24",
+"deadline": false,
+"title": "Tepmetko – rek. 114/2026 (zlecenie 72/2026): rekomendacja/stanowisko",
+"detail": "B.6 pozytywna brak w wykazie",
+"source": "AOTMiT 72/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9601-72-2026-zlc"
+}
+]
+}

@@ -1,0 +1,28 @@
+{
+"company": "Medical Valley",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "MZ – cena / limit / nowy wpis:xfpn20",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Pirfenidon Stada: Zmiana: Urzędowa cena zbytu",
+"detail": "B.87 · 2 180,00 zł → 2 138,40 zł (−1,9%) · 3 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:xelym3",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Pirfenidon Stada: Zmiana: Limit finansowania",
+"detail": "B.87 · 2 289,60 zł → 2 266,70 zł (−1,0%) · 2 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+}
+]
+}

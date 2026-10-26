@@ -1,0 +1,98 @@
+{
+"company": "Regeneron Ireland Designated Activity Company (DAC)",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "AOTMiT / Rada Przejrzystości:6j97es",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-28",
+"deadline": true,
+"title": "RP 45/2026: Keytruda (pembrolizumab) – stanowisko",
+"detail": "Firma: Merck Sharp & Dohme. Programy: B.159, B.6. Przygotowanie stanowisk w sprawie oceny leku Keytruda (pembrolizumab) w ramach programów lekowych: • B.58. „Leczenie chorych na raka przełyku, połączenia żołądkowo- przełykowego i żołądka (ICD-10: C15-C16)”, • B.5. „Lecz",
+"source": "AOTMiT BIP – porządek obrad RP 45/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:171xui5",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-11-02",
+"deadline": true,
+"title": "RP 46/2026: Tevimbra (tislelizumabum) – stanowisko",
+"detail": "Firma: BeiGene. Programy: B.6. Przygotowanie stanowiska w sprawie oceny leku Tevimbra (tislelizumabum), w ramach programu lekowego B.6. „Leczenie chorych na raka płuca (ICD-10: C34) oraz międzybłoniaka opłucnej (ICD-10: C45)”.",
+"source": "AOTMiT BIP – porządek obrad RP 46/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:8o8df8",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-11-02",
+"deadline": true,
+"title": "RP 46/2026: temat – opinia",
+"detail": "Programy: B.125. Przygotowanie opinii w sprawie zasadności wprowadzenia zmian w programie lekowym B.125. „Leczenie pacjentów chorych na kolczystokomórkowego raka skóry (ICD-10: C44.12, C44.22,C44.32, C44.42, C44.52, C44.62, C44.72, C44.8",
+"source": "AOTMiT BIP – porządek obrad RP 46/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "Wygaśnięcie refundacji:1z0yp9i",
+"kind": "Wygaśnięcie refundacji",
+"date": "2026-12-31",
+"deadline": true,
+"title": "Libtayo B.6: decyzja refundacyjna wygasa 2026-12-31",
+"detail": "Program B.6; brak nowego obwieszczenia z przedłużeniem na dzień 2026-09-16.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wygaśnięcie refundacji:10li54f",
+"kind": "Wygaśnięcie refundacji",
+"date": "2026-12-31",
+"deadline": true,
+"title": "Libtayo B.159: decyzja refundacyjna wygasa 2026-12-31",
+"detail": "Program B.159; brak nowego obwieszczenia z przedłużeniem na dzień 2026-09-16.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "News – AOTMiT:15a9jeq",
+"kind": "News – AOTMiT",
+"date": "2026-11-02",
+"deadline": false,
+"title": "RP 46/2026 (2026-11-02): stanowisko – Tevimbra (tislelizumabum)",
+"detail": "Programy: B.6 · Marki: Tevimbra",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf#p2"
+},
+{
+"id": "News – AOTMiT:8nealc",
+"kind": "News – AOTMiT",
+"date": "2026-11-02",
+"deadline": false,
+"title": "RP 46/2026 (2026-11-02): opinia – Przygotowanie opinii w sprawie zasadności wprowadzenia zmian w programie lekowym B.125. „L",
+"detail": "Programy: B.125",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf#p4"
+},
+{
+"id": "Wzrost udziału konkurenta:1aay9u0",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "AstraZeneca +1,1 pp w Rak płuca",
+"detail": "pacjenci 2885 → 3439 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "AOTMiT – decyzja:lkzd2u",
+"kind": "AOTMiT – decyzja",
+"date": "2026-08-24",
+"deadline": false,
+"title": "Tepmetko – rek. 114/2026 (zlecenie 72/2026): rekomendacja/stanowisko",
+"detail": "B.6 pozytywna brak w wykazie",
+"source": "AOTMiT 72/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9601-72-2026-zlc"
+}
+]
+}

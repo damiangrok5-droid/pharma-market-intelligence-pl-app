@@ -1,0 +1,178 @@
+{
+"company": "Astellas Pharma",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "Przetarg – termin ofert:iqyot7",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-27",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Jędrzeja Śniadeckiego: termin składania ofert 2026-10-27",
+"detail": "venetoclax · 1 części · Nowy Sącz (małopolskie)",
+"source": "TED 647125-2026 (publ. 2026-09-21)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/647125-2026"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:6j97es",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-28",
+"deadline": true,
+"title": "RP 45/2026: Keytruda (pembrolizumab) – stanowisko",
+"detail": "Firma: Merck Sharp & Dohme. Programy: B.58, B.141. Przygotowanie stanowisk w sprawie oceny leku Keytruda (pembrolizumab) w ramach programów lekowych: • B.58. „Leczenie chorych na raka przełyku, połączenia żołądkowo- przełykowego i żołądka (ICD-10: C15-C16)”, • B.5. „Lecz",
+"source": "AOTMiT BIP – porządek obrad RP 45/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:10pqsp3",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-11-02",
+"deadline": true,
+"title": "RP 46/2026: Imfinzi (durvalumabum) – stanowisko",
+"detail": "Firma: AstraZeneca. Programy: B.58. Przygotowanie stanowiska w sprawie oceny leku Imfinzi (durvalumabum) w ramach programu lekowego B.58. „Leczenie chorych na raka przełyku, połączenia żołądkowo-przełykowego i żołądka (ICD-10: C15-C16)”.",
+"source": "AOTMiT BIP – porządek obrad RP 46/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "News – AOTMiT:v98m8s",
+"kind": "News – AOTMiT",
+"date": "2026-11-02",
+"deadline": false,
+"title": "RP 46/2026 (2026-11-02): stanowisko – Imfinzi (durvalumabum)",
+"detail": "Programy: B.58 · Marki: Imfinzi",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf#p3"
+},
+{
+"id": "News – AOTMiT:1m9ak4g",
+"kind": "News – AOTMiT",
+"date": "2026-10-28",
+"deadline": false,
+"title": "RP 45/2026 (2026-10-28): stanowisko – Keytruda (pembrolizumab)",
+"detail": "Programy: B.4, B.5, B.58 · Marki: Keytruda",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf#p1"
+},
+{
+"id": "AOTMiT – decyzja:bpbts",
+"kind": "AOTMiT – decyzja",
+"date": "2026-10-21",
+"deadline": false,
+"title": "Tibsovo – rek. 157/2026 (zlecenie 171/2026): rekomendacja/stanowisko",
+"detail": "B.114 pozytywna w wykazie – decyzja po rekomendacji jeszcze nie wydana (oczekuje 5 dni)",
+"source": "AOTMiT 171/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9816-171-2026-zlc"
+},
+{
+"id": "News – AOTMiT:1my1t6l",
+"kind": "News – AOTMiT",
+"date": "2026-10-21",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 157/2026: Tibsovo – pozytywna",
+"detail": "Programy: B.114 · Marki: Tibsovo",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/171/REK/Rekomendacja%20157_2026%20Tibsovo%20publikacja%20BIP_REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:grf4g1",
+"kind": "News – AOTMiT",
+"date": "2026-10-19",
+"deadline": false,
+"title": "Stanowisko Rady Przejrzystości 151/2026: Tibsovo – pozytywna",
+"detail": "Programy: B.114 · Marki: Tibsovo",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/171/SRP/20261019.293.151%20Tibsovo%20artykuł%2035%20zacz%20BIP%20REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:1jzt2og",
+"kind": "News – AOTMiT",
+"date": "2026-10-19",
+"deadline": false,
+"title": "RP 43/2026 (2026-10-19): stanowisko – Tibsovo (ivosidenibum)",
+"detail": "Programy: B.114 · Marki: Tibsovo",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261019%20Porz%C4%85dek%20obrad.pdf#p1"
+},
+{
+"id": "AOTMiT – decyzja:juvi30",
+"kind": "AOTMiT – decyzja",
+"date": "2026-09-29",
+"deadline": false,
+"title": "Akeega – rek. 145/2026 (zlecenie 111/2026): rekomendacja negatywna",
+"detail": "B.56 negatywna w wykazie – decyzja po rekomendacji jeszcze nie wydana (oczekuje 27 dni)",
+"source": "AOTMiT 111/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9684-111-2026-zlc"
+},
+{
+"id": "News – AOTMiT:1g9gfwr",
+"kind": "News – AOTMiT",
+"date": "2026-09-29",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 145/2026: Akeega – negatywna",
+"detail": "Programy: B.56 · Marki: Akeega",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/111/REK/Rekomendacja%20145_2026%20Akeega%20Publikacja_REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:z484h9",
+"kind": "News – AOTMiT",
+"date": "2026-09-28",
+"deadline": false,
+"title": "RP 40/2026 (2026-09-28): stanowisko – Akeega (niraparibum + abirateroni acetas)",
+"detail": "Programy: B.56 · Marki: Akeega",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/260928%20Porz%C4%85dek%20obrad.pdf#p2"
+},
+{
+"id": "Wzrost udziału konkurenta:17gbpnz",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Bayer +3,6 pp w Rak gruczołu krokowego",
+"detail": "pacjenci 1036 → 1893 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:18l5vky",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "EVER Pharma +2,2 pp w Rak gruczołu krokowego",
+"detail": "pacjenci 817 → 1383 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:thf4hk",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Pfizer +1,2 pp w Ostra białaczka szpikowa",
+"detail": "pacjenci 23 → 42 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wygrany przetarg konkurenta:tj0btu",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-07",
+"deadline": false,
+"title": "AbbVie wygrywa u Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie",
+"detail": "1 części · venetoclax · 10,51 mln zł",
+"source": "TED 548652-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/548652-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:lhnwx8",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-07-30",
+"deadline": false,
+"title": "AbbVie wygrywa u Państwowy Instytut Medyczny Ministerstwa Spraw Wewnętrznych i Administracji",
+"detail": "1 części · venetoclax · 3,28 mln zł",
+"source": "TED 529481-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/529481-2026"
+}
+]
+}

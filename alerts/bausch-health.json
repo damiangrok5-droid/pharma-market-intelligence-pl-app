@@ -1,0 +1,98 @@
+{
+"company": "Bausch Health",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "Wygaśnięcie refundacji:1f2tz4e",
+"kind": "Wygaśnięcie refundacji",
+"date": "2026-12-31",
+"deadline": true,
+"title": "Clefirem B.29: decyzja refundacyjna wygasa 2026-12-31",
+"detail": "Program B.29; brak nowego obwieszczenia z przedłużeniem na dzień 2026-09-16.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – nowy wpis konkurenta:cb079x",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Dimethyl fumarate Reddy: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.29 · – → B.29. · 2 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – nowy wpis konkurenta:kxvk2u",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Fingolimod Sun: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.29 · – → B.29.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wzrost udziału konkurenta:hz1wzo",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Accord Healthcare +3,0 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 50 → 1065 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:vr9s8j",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Neuraxpharm +1,3 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 0 → 447 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1c1m331",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Roche +2,6 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 3510 → 5072 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:r6wrjv",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Teva +1,6 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 1256 → 2027 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1en9ea6",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "STADA Arzneimittel +1,4 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 0 → 450 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1y1j0nt",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "MSN Labs +3,2 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 0 → 1076 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+}
+]
+}

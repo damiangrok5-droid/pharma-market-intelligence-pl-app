@@ -1,0 +1,168 @@
+{
+"company": "pharmaand",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "Przetarg – termin ofert:iqyot7",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-27",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Jędrzeja Śniadeckiego: termin składania ofert 2026-10-27",
+"detail": "mirvetuximab · 1 części · Nowy Sącz (małopolskie)",
+"source": "TED 647125-2026 (publ. 2026-09-21)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/647125-2026"
+},
+{
+"id": "Przetarg – termin ofert:1mj5b8s",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-06",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Świętej Rodziny: termin składania ofert 2026-11-06",
+"detail": "mirvetuximab · 1 części · Warszawa (mazowieckie)",
+"source": "TED 689675-2026 (publ. 2026-10-07)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/689675-2026"
+},
+{
+"id": "Przetarg – termin ofert:l9jizl",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-13",
+"deadline": true,
+"title": "Samodzielny Publiczny Szpital Wojewódzki im. Papieża Jana Pawła II w Zamościu: termin składania ofert 2026-11-13",
+"detail": "mirvetuximab · 1 części · Zamość (lubelskie)",
+"source": "TED 708093-2026 (publ. 2026-10-14)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/708093-2026"
+},
+{
+"id": "Przetarg – termin ofert:1xqbvv2",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-17",
+"deadline": true,
+"title": "ZAGŁĘBIOWSKIE CENTRUM ONKOLOGII SZPITAL SPECJALISTYCZNY IM. SZ. STARKIEWICZA W DĄBROWIE GÓRNICZEJ: termin składania ofert 2026-11-17",
+"detail": "mirvetuximab · 1 części · DĄBROWA GÓRNICZA (śląskie)",
+"source": "TED 717910-2026 (publ. 2026-10-16)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/717910-2026"
+},
+{
+"id": "Przetarg – termin ofert:1o9c5vn",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-23",
+"deadline": true,
+"title": "Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie: termin składania ofert 2026-11-23",
+"detail": "mirvetuximab · 1 części · Rzeszów (podkarpackie)",
+"source": "TED 721958-2026 (publ. 2026-10-19)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/721958-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:17i7ked",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-10-12",
+"deadline": false,
+"title": "AbbVie wygrywa u GINEKOLOGICZNO-POŁOŻNICZY SZPITAL KLINICZNY IM. HELIODORA ŚWIĘCICKIEGO UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 703882-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/703882-2026"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:m7he5k",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Zejula: Zmiana: Urzędowa cena zbytu",
+"detail": "B.50 · 19 013,40 zł → 18 522,00 zł (−2,6%) · 2 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:srdtuz",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Zejula: Zmiana: Limit finansowania",
+"detail": "B.50 · 20 154,20 zł → 19 633,32 zł (−2,6%) · 2 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wzrost udziału konkurenta:10d9inf",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "AstraZeneca +11,6 pp w Rak jajnika",
+"detail": "pacjenci 2230 → 2494 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:8i0x87",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "AbbVie +3,9 pp w Rak jajnika",
+"detail": "pacjenci 0 → 206 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:5dkp50",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Mabxience Research +1,8 pp w Rak jajnika",
+"detail": "pacjenci 66 → 153 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wygrany przetarg konkurenta:vhk371",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-28",
+"deadline": false,
+"title": "AbbVie wygrywa u Wojewódzkie Centrum Szpitalne Kotliny Jeleniogórskiej",
+"detail": "1 części · mirvetuximab · 279 999,84 zł",
+"source": "TED 594380-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/594380-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1stdwjy",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-18",
+"deadline": false,
+"title": "AbbVie wygrywa u Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 571335-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/571335-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1t43j4c",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-11",
+"deadline": false,
+"title": "AbbVie wygrywa u Państwowy Instytut Medyczny Ministerstwa Spraw Wewnętrznych i Administracji",
+"detail": "1 części · mirvetuximab · 699 999,60 zł",
+"source": "TED 554535-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/554535-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1qwwct6",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-06",
+"deadline": false,
+"title": "AbbVie wygrywa u SZPITAL UNIWERSYTECKI W KRAKOWIE",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 544696-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/544696-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1l8j6f",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-04",
+"deadline": false,
+"title": "AbbVie wygrywa u Wojewódzki Szpital Zespolony w Plocku",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 537605-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/537605-2026"
+}
+]
+}

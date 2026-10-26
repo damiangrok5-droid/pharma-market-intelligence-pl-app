@@ -1,0 +1,58 @@
+{
+"company": "Amomed Pharma",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "MZ – nowy wpis konkurenta:gi7c4u",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Selexipag Polpharma: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.31 · – → B.31. · 9 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – nowy wpis konkurenta:1cjs6if",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Selexipag Stada: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.31 · – → B.31. · 9 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:khlybv",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Uptravi: Zmiana: Limit finansowania",
+"detail": "B.31 · 12 066,19 zł → 8 814,63 zł (−26,9%) · 9 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wzrost udziału konkurenta:1xfbcuc",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Aurovitas Pharma +12,5 pp w Tętnicze nadciśnienie płucne",
+"detail": "pacjenci 199 → 760 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:zdyhb5",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Merck Sharp & Dohme +1,8 pp w Tętnicze nadciśnienie płucne",
+"detail": "pacjenci 0 → 75 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+}
+]
+}

@@ -1,0 +1,308 @@
+{
+"company": "GlaxoSmithKline",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "AOTMiT / Rada Przejrzystości:10shvcq",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-26",
+"deadline": true,
+"title": "RP 44/2026: Nucala (mepolizumabum) – stanowisko",
+"detail": "Mój produkt. Przygotowanie stanowiska w sprawie oceny leku Nucala (mepolizumabum), w ramach programu lekowego B.X. „Leczenie chorych z przewlekłą obturacyjną chorobą płuc (POChP) (ICD-10: J44)”.",
+"source": "AOTMiT BIP – porządek obrad RP 44/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261026%20Porz%C4%85dek%20obrad%20poprawiony.pdf"
+},
+{
+"id": "Przetarg – termin ofert:iqyot7",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-27",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Jędrzeja Śniadeckiego: termin składania ofert 2026-10-27",
+"detail": "mirvetuximab · 1 części · Nowy Sącz (małopolskie)",
+"source": "TED 647125-2026 (publ. 2026-09-21)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/647125-2026"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:6j97es",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-28",
+"deadline": true,
+"title": "RP 45/2026: Keytruda (pembrolizumab) – stanowisko",
+"detail": "Firma: Merck Sharp & Dohme. Programy: B.148. Przygotowanie stanowisk w sprawie oceny leku Keytruda (pembrolizumab) w ramach programów lekowych: • B.58. „Leczenie chorych na raka przełyku, połączenia żołądkowo- przełykowego i żołądka (ICD-10: C15-C16)”, • B.5. „Lecz",
+"source": "AOTMiT BIP – porządek obrad RP 45/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "Przetarg – termin ofert:63bwh9",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-29",
+"deadline": true,
+"title": "Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie: termin składania ofert 2026-10-29",
+"detail": "tocilizumab · 1 części · Rzeszów (podkarpackie)",
+"source": "TED 667131-2026 (publ. 2026-09-28)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/667131-2026"
+},
+{
+"id": "Przetarg – termin ofert:p1gmgk",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-29",
+"deadline": true,
+"title": "SZPITAL MURCKI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: termin składania ofert 2026-10-29",
+"detail": "tocilizumab · 1 części · Katowice (śląskie)",
+"source": "TED 657490-2026 (publ. 2026-09-24)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/657490-2026"
+},
+{
+"id": "Przetarg – termin ofert:1onjx0u",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-30",
+"deadline": true,
+"title": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach: termin składania ofert 2026-10-30",
+"detail": "tocilizumab · 2 części · Katowice (śląskie)",
+"source": "TED 714998-2026 (publ. 2026-10-15)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/714998-2026"
+},
+{
+"id": "Przetarg – termin ofert:stjn8h",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowej Soli: termin składania ofert 2026-11-03",
+"detail": "tocilizumab · 1 części · Nowa Sól (lubuskie)",
+"source": "TED 682157-2026 (publ. 2026-10-05)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/682157-2026"
+},
+{
+"id": "Przetarg – termin ofert:1i4bfl8",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "Szpital Specjalistyczny Ducha Świętego w Sandomierzu: termin składania ofert 2026-11-03",
+"detail": "tocilizumab · 1 części · Sandomierz (świętokrzyskie)",
+"source": "TED 678985-2026 (publ. 2026-10-02)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/678985-2026"
+},
+{
+"id": "Przetarg – termin ofert:1mj5b8s",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-06",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Świętej Rodziny: termin składania ofert 2026-11-06",
+"detail": "mirvetuximab · 1 części · Warszawa (mazowieckie)",
+"source": "TED 689675-2026 (publ. 2026-10-07)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/689675-2026"
+},
+{
+"id": "Przetarg – termin ofert:l9jizl",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-13",
+"deadline": true,
+"title": "Samodzielny Publiczny Szpital Wojewódzki im. Papieża Jana Pawła II w Zamościu: termin składania ofert 2026-11-13",
+"detail": "mirvetuximab · 1 części · Zamość (lubelskie)",
+"source": "TED 708093-2026 (publ. 2026-10-14)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/708093-2026"
+},
+{
+"id": "Przetarg – termin ofert:1xqbvv2",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-17",
+"deadline": true,
+"title": "ZAGŁĘBIOWSKIE CENTRUM ONKOLOGII SZPITAL SPECJALISTYCZNY IM. SZ. STARKIEWICZA W DĄBROWIE GÓRNICZEJ: termin składania ofert 2026-11-17",
+"detail": "mirvetuximab · 1 części · DĄBROWA GÓRNICZA (śląskie)",
+"source": "TED 717910-2026 (publ. 2026-10-16)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/717910-2026"
+},
+{
+"id": "Przetarg – termin ofert:1o9c5vn",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-23",
+"deadline": true,
+"title": "Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie: termin składania ofert 2026-11-23",
+"detail": "mirvetuximab · 1 części · Rzeszów (podkarpackie)",
+"source": "TED 721958-2026 (publ. 2026-10-19)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/721958-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:17i7ked",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-10-12",
+"deadline": false,
+"title": "AbbVie wygrywa u GINEKOLOGICZNO-POŁOŻNICZY SZPITAL KLINICZNY IM. HELIODORA ŚWIĘCICKIEGO UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 703882-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/703882-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:t1ozxk",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-09-23",
+"deadline": false,
+"title": "Roche wygrywa u Szpital Murcki Sp. z o.o.",
+"detail": "1 części · tocilizumab · 509 963,04 zł",
+"source": "TED 655090-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/655090-2026"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:lirv9s",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Ninlaro: Zmiana: Urzędowa cena zbytu",
+"detail": "B.54 · 17 820,00 zł → 15 681,60 zł (−12,0%) · 3 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1r6g42b",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Ninlaro: Zmiana: Limit finansowania",
+"detail": "B.54 · 14 481,72 zł → 12 743,92 zł (−12,0%) · 3 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1m5bam1",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Inrebic: Zmiana: Urzędowa cena zbytu",
+"detail": "B.81 · 20 119,35 zł → 15 290,70 zł (−24,0%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:18x0bmk",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Inrebic: Zmiana: Limit finansowania",
+"detail": "B.81 · 21 326,51 zł → 16 208,14 zł (−24,0%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wzrost udziału konkurenta:1f4rxxs",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "pharmaand +2,0 pp w Rak jajnika",
+"detail": "pacjenci 0 → 108 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:10d9inf",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "AstraZeneca +11,6 pp w Rak jajnika",
+"detail": "pacjenci 2230 → 2494 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:8i0x87",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "AbbVie +3,9 pp w Rak jajnika",
+"detail": "pacjenci 0 → 206 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:5dkp50",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Mabxience Research +1,8 pp w Rak jajnika",
+"detail": "pacjenci 66 → 153 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:ybl90r",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Novartis +4,2 pp w Astma ciężka",
+"detail": "pacjenci 633 → 1223 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:bpwqfr",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Celltrion Healthcare +2,9 pp w Astma ciężka",
+"detail": "pacjenci 0 → 98 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wygrany przetarg konkurenta:vhk371",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-28",
+"deadline": false,
+"title": "AbbVie wygrywa u Wojewódzkie Centrum Szpitalne Kotliny Jeleniogórskiej",
+"detail": "1 części · mirvetuximab · 279 999,84 zł",
+"source": "TED 594380-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/594380-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1stdwjy",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-18",
+"deadline": false,
+"title": "AbbVie wygrywa u Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 571335-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/571335-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1t43j4c",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-11",
+"deadline": false,
+"title": "AbbVie wygrywa u Państwowy Instytut Medyczny Ministerstwa Spraw Wewnętrznych i Administracji",
+"detail": "1 części · mirvetuximab · 699 999,60 zł",
+"source": "TED 554535-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/554535-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:ho5cwa",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-10",
+"deadline": false,
+"title": "Fresenius wygrywa u Wojewódzki Szpital Zespolony im. Ludwika Perzyny w Kaliszu",
+"detail": "1 części · tocilizumab · 787 499,82 zł",
+"source": "TED 551449-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/551449-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1qwwct6",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-06",
+"deadline": false,
+"title": "AbbVie wygrywa u SZPITAL UNIWERSYTECKI W KRAKOWIE",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 544696-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/544696-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1l8j6f",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-04",
+"deadline": false,
+"title": "AbbVie wygrywa u Wojewódzki Szpital Zespolony w Plocku",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 537605-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/537605-2026"
+}
+]
+}

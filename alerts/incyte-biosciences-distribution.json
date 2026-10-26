@@ -1,0 +1,198 @@
+{
+"company": "Incyte Biosciences Distribution",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "AOTMiT / Rada Przejrzystości:6j97es",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-28",
+"deadline": true,
+"title": "RP 45/2026: Keytruda (pembrolizumab) – stanowisko",
+"detail": "Firma: Merck Sharp & Dohme. Programy: B.5. Przygotowanie stanowisk w sprawie oceny leku Keytruda (pembrolizumab) w ramach programów lekowych: • B.58. „Leczenie chorych na raka przełyku, połączenia żołądkowo- przełykowego i żołądka (ICD-10: C15-C16)”, • B.5. „Lecz",
+"source": "AOTMiT BIP – porządek obrad RP 45/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "News – AOTMiT:1m9ak4g",
+"kind": "News – AOTMiT",
+"date": "2026-10-28",
+"deadline": false,
+"title": "RP 45/2026 (2026-10-28): stanowisko – Keytruda (pembrolizumab)",
+"detail": "Programy: B.4, B.5, B.58 · Marki: Keytruda",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf#p1"
+},
+{
+"id": "Wygrany przetarg konkurenta:wjheeh",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-10-14",
+"deadline": false,
+"title": "AbbVie wygrywa u Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzki Szpital Specjalistyczny Nr 3 w Rybniku",
+"detail": "1 części · epcoritamab · 773 325,42 zł",
+"source": "TED 709422-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/709422-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:11j7uuk",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-09-30",
+"deadline": false,
+"title": "Janssen wygrywa u Wojskowy Instytut Medyczny - Państwowy Instytut Badawczy",
+"detail": "1 części · ibrutinib · 1,05 mln zł",
+"source": "TED 671307-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/671307-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1nuey9y",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-09-18",
+"deadline": false,
+"title": "AbbVie wygrywa u Uniwersytecki Szpital Kliniczny w Białymstoku",
+"detail": "1 części · epcoritamab · 1,42 mln zł",
+"source": "TED 642983-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/642983-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:kqrwi7",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-09-18",
+"deadline": false,
+"title": "AbbVie wygrywa u Centrum Onkologii Ziemi Lubelskiej im. św. Jana z Dukli",
+"detail": "1 części · epcoritamab · 2,43 mln zł",
+"source": "TED 644941-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/644941-2026"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1dtm9tr",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Keytruda: Zmiana: Program/wskazania (B.xx/C)",
+"detail": "B.5 · B.4.; B.6.; B.9.FM.; B.10.; B.52.; B.58.; B.59.; B.141.FM.; B.148.; B.159. → B.4.; B.5.; B.6.; B.9.FM.; B.10.; B.52.; B.58.; B.59.; B.141.FM.; B.148.; B.159.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:38s115",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Yescarta: Zmiana: Urzędowa cena zbytu",
+"detail": "B.12 · 1 296 000,00 zł → 1 204 216,20 zł (−7,1%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1oh0pzw",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Yescarta: Zmiana: Limit finansowania",
+"detail": "B.12 · 1 298 160,00 zł → 1 206 376,20 zł (−7,1%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1mjwp54",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Tecartus: Zmiana: Urzędowa cena zbytu",
+"detail": "B.12, B.65 · 1 317 600,00 zł → 1 259 459,28 zł (−4,4%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:66numj",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Tecartus: Zmiana: Limit finansowania",
+"detail": "B.12, B.65 · 1 319 760,00 zł → 1 261 619,28 zł (−4,4%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wzrost udziału konkurenta:vft6kl",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Amgen +41,9 pp w Ostra białaczka limfoblastyczna",
+"detail": "pacjenci 12 → 61 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:18309ao",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Roche +3,4 pp w Chłoniaki (B.12)",
+"detail": "pacjenci 1816 → 2040 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:jujjnz",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "BeiGene +2,6 pp w Chłoniaki (B.12)",
+"detail": "pacjenci 133 → 315 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wygrany przetarg konkurenta:1igdlc1",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-09-04",
+"deadline": false,
+"title": "AbbVie wygrywa u Instytut Hematologii i Transfuzjologii",
+"detail": "1 części · epcoritamab · 644 745,53 zł",
+"source": "TED 611683-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/611683-2026"
+},
+{
+"id": "AOTMiT – decyzja:uv05wq",
+"kind": "AOTMiT – decyzja",
+"date": "2026-08-28",
+"deadline": false,
+"title": "Tibsovo – rek. 128/2026 (zlecenie 106/2026): rekomendacja/stanowisko",
+"detail": "B.5 pozytywna warunkowa mieszana brak w wykazie",
+"source": "AOTMiT 106/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9671-106-2026-zlc"
+},
+{
+"id": "AOTMiT – decyzja:1o3d6c6",
+"kind": "AOTMiT – decyzja",
+"date": "2026-08-27",
+"deadline": false,
+"title": "Imbruvica – rek. 122/2026 (zlecenie 86/2026): rekomendacja/stanowisko",
+"detail": "B.12 pozytywna w wykazie – decyzja po rekomendacji jeszcze nie wydana (oczekuje 60 dni)",
+"source": "AOTMiT 86/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9629-86-2026-zlc"
+},
+{
+"id": "Wygrany przetarg konkurenta:1wt8ndr",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-20",
+"deadline": false,
+"title": "Janssen wygrywa u SZPITAL UNIWERSYTECKI W KRAKOWIE",
+"detail": "1 części · ibrutinib · 8,80 mln zł",
+"source": "TED 576743-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/576743-2026"
+},
+{
+"id": "AOTMiT – decyzja:1yeejg1",
+"kind": "AOTMiT – decyzja",
+"date": "2026-08-13",
+"deadline": false,
+"title": "Lunsumio – rek. 120/2026 (zlecenie 114/2026): rekomendacja/stanowisko",
+"detail": "B.12 pozytywna brak w wykazie",
+"source": "AOTMiT 114/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9691-114-2026-zlc"
+}
+]
+}

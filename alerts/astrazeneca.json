@@ -1,0 +1,658 @@
+{
+"company": "AstraZeneca",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "Przetarg – termin ofert:19widt6",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-27",
+"deadline": true,
+"title": "Świętokrzyskie Centrum Onkologii Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kielcach: termin składania ofert 2026-10-27",
+"detail": "zanubrutinib · 1 części · Kielce (świętokrzyskie)",
+"source": "TED 665173-2026 (publ. 2026-09-28)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/665173-2026"
+},
+{
+"id": "Przetarg – termin ofert:iqyot7",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-27",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Jędrzeja Śniadeckiego: termin składania ofert 2026-10-27",
+"detail": "venetoclax, mirvetuximab · 2 części · Nowy Sącz (małopolskie)",
+"source": "TED 647125-2026 (publ. 2026-09-21)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/647125-2026"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:6j97es",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-28",
+"deadline": true,
+"title": "RP 45/2026: Keytruda (pembrolizumab) – stanowisko",
+"detail": "Firma: Merck Sharp & Dohme. Programy: B.5, B.9, B.148, B.6. Przygotowanie stanowisk w sprawie oceny leku Keytruda (pembrolizumab) w ramach programów lekowych: • B.58. „Leczenie chorych na raka przełyku, połączenia żołądkowo- przełykowego i żołądka (ICD-10: C15-C16)”, • B.5. „Lecz",
+"source": "AOTMiT BIP – porządek obrad RP 45/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "Przetarg – termin ofert:63bwh9",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-29",
+"deadline": true,
+"title": "Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie: termin składania ofert 2026-10-29",
+"detail": "tocilizumab · 1 części · Rzeszów (podkarpackie)",
+"source": "TED 667131-2026 (publ. 2026-09-28)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/667131-2026"
+},
+{
+"id": "Przetarg – termin ofert:p1gmgk",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-29",
+"deadline": true,
+"title": "SZPITAL MURCKI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: termin składania ofert 2026-10-29",
+"detail": "tocilizumab · 1 części · Katowice (śląskie)",
+"source": "TED 657490-2026 (publ. 2026-09-24)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/657490-2026"
+},
+{
+"id": "Przetarg – termin ofert:1onjx0u",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-30",
+"deadline": true,
+"title": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach: termin składania ofert 2026-10-30",
+"detail": "tocilizumab · 2 części · Katowice (śląskie)",
+"source": "TED 714998-2026 (publ. 2026-10-15)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/714998-2026"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:171xui5",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-11-02",
+"deadline": true,
+"title": "RP 46/2026: Tevimbra (tislelizumabum) – stanowisko",
+"detail": "Firma: BeiGene. Programy: B.6. Przygotowanie stanowiska w sprawie oceny leku Tevimbra (tislelizumabum), w ramach programu lekowego B.6. „Leczenie chorych na raka płuca (ICD-10: C34) oraz międzybłoniaka opłucnej (ICD-10: C45)”.",
+"source": "AOTMiT BIP – porządek obrad RP 46/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "AOTMiT / Rada Przejrzystości:10pqsp3",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-11-02",
+"deadline": true,
+"title": "RP 46/2026: Imfinzi (durvalumabum) – stanowisko",
+"detail": "Mój produkt. Przygotowanie stanowiska w sprawie oceny leku Imfinzi (durvalumabum) w ramach programu lekowego B.58. „Leczenie chorych na raka przełyku, połączenia żołądkowo-przełykowego i żołądka (ICD-10: C15-C16)”.",
+"source": "AOTMiT BIP – porządek obrad RP 46/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "Przetarg – termin ofert:stjn8h",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowej Soli: termin składania ofert 2026-11-03",
+"detail": "tocilizumab · 1 części · Nowa Sól (lubuskie)",
+"source": "TED 682157-2026 (publ. 2026-10-05)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/682157-2026"
+},
+{
+"id": "Przetarg – termin ofert:1i4bfl8",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "Szpital Specjalistyczny Ducha Świętego w Sandomierzu: termin składania ofert 2026-11-03",
+"detail": "tocilizumab · 1 części · Sandomierz (świętokrzyskie)",
+"source": "TED 678985-2026 (publ. 2026-10-02)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/678985-2026"
+},
+{
+"id": "Przetarg – termin ofert:gocgcz",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-04",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Jędrzeja Śniadeckiego: termin składania ofert 2026-11-04",
+"detail": "ibrutinib, zanubrutinib · 2 części · Nowy Sącz (małopolskie)",
+"source": "TED 673770-2026 (publ. 2026-09-30)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/673770-2026"
+},
+{
+"id": "Przetarg – termin ofert:1mj5b8s",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-06",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Świętej Rodziny: termin składania ofert 2026-11-06",
+"detail": "mirvetuximab · 1 części · Warszawa (mazowieckie)",
+"source": "TED 689675-2026 (publ. 2026-10-07)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/689675-2026"
+},
+{
+"id": "Przetarg – termin ofert:l9jizl",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-13",
+"deadline": true,
+"title": "Samodzielny Publiczny Szpital Wojewódzki im. Papieża Jana Pawła II w Zamościu: termin składania ofert 2026-11-13",
+"detail": "mirvetuximab · 1 części · Zamość (lubelskie)",
+"source": "TED 708093-2026 (publ. 2026-10-14)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/708093-2026"
+},
+{
+"id": "Przetarg – termin ofert:1xqbvv2",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-17",
+"deadline": true,
+"title": "ZAGŁĘBIOWSKIE CENTRUM ONKOLOGII SZPITAL SPECJALISTYCZNY IM. SZ. STARKIEWICZA W DĄBROWIE GÓRNICZEJ: termin składania ofert 2026-11-17",
+"detail": "mirvetuximab · 1 części · DĄBROWA GÓRNICZA (śląskie)",
+"source": "TED 717910-2026 (publ. 2026-10-16)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/717910-2026"
+},
+{
+"id": "Przetarg – termin ofert:1o9c5vn",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-23",
+"deadline": true,
+"title": "Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie: termin składania ofert 2026-11-23",
+"detail": "mirvetuximab · 1 części · Rzeszów (podkarpackie)",
+"source": "TED 721958-2026 (publ. 2026-10-19)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/721958-2026"
+},
+{
+"id": "Wygaśnięcie refundacji:1oinkdk",
+"kind": "Wygaśnięcie refundacji",
+"date": "2026-12-31",
+"deadline": true,
+"title": "Imfinzi B.6: decyzja refundacyjna wygasa 2026-12-31",
+"detail": "Program B.6; brak nowego obwieszczenia z przedłużeniem na dzień 2026-09-16.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wygaśnięcie refundacji:1yid74u",
+"kind": "Wygaśnięcie refundacji",
+"date": "2026-12-31",
+"deadline": true,
+"title": "Tagrisso B.6: decyzja refundacyjna wygasa 2026-12-31",
+"detail": "Program B.6; brak nowego obwieszczenia z przedłużeniem na dzień 2026-09-16.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "News – AOTMiT:15a9jeq",
+"kind": "News – AOTMiT",
+"date": "2026-11-02",
+"deadline": false,
+"title": "RP 46/2026 (2026-11-02): stanowisko – Tevimbra (tislelizumabum)",
+"detail": "Programy: B.6 · Marki: Tevimbra",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261102%20Porz%C4%85dek%20obrad.pdf#p2"
+},
+{
+"id": "News – AOTMiT:1m9ak4g",
+"kind": "News – AOTMiT",
+"date": "2026-10-28",
+"deadline": false,
+"title": "RP 45/2026 (2026-10-28): stanowisko – Keytruda (pembrolizumab)",
+"detail": "Programy: B.4, B.5, B.58 · Marki: Keytruda",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf#p1"
+},
+{
+"id": "AOTMiT – decyzja:wyjdxe",
+"kind": "AOTMiT – decyzja",
+"date": "2026-10-22",
+"deadline": false,
+"title": "Gazyvaro – rek. 160/2026 (zlecenie 120/2026): rekomendacja/stanowisko",
+"detail": "B.150 pozytywna po ost. obwieszczeniu",
+"source": "AOTMiT 120/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9710-120-2026-zlc"
+},
+{
+"id": "News – AOTMiT:bvnodh",
+"kind": "News – AOTMiT",
+"date": "2026-10-22",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 160/2026: Gazyvaro – pozytywna",
+"detail": "Programy: B.150 · Marki: Gazyvaro",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/120/REK/Rekomendacja%20160_2026%20Gazyvaro%20Publikacja_REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:ef900m",
+"kind": "News – AOTMiT",
+"date": "2026-10-19",
+"deadline": false,
+"title": "RP 43/2026 (2026-10-19): stanowisko – Gazyvaro (obinutuzumabum)",
+"detail": "Programy: B.150 · Marki: Gazyvaro",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261019%20Porz%C4%85dek%20obrad.pdf#p4"
+},
+{
+"id": "News – AOTMiT:376rhk",
+"kind": "News – AOTMiT",
+"date": "2026-10-14",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 154/2026: Koselugo – negatywna",
+"detail": "Programy: B.155 · Marki: Koselugo",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/138/REK/Rekomendacja%20154_2026%20Koselugo%20Publikacja_REOPTR.pdf"
+},
+{
+"id": "Wygrany przetarg konkurenta:17i7ked",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-10-12",
+"deadline": false,
+"title": "AbbVie wygrywa u GINEKOLOGICZNO-POŁOŻNICZY SZPITAL KLINICZNY IM. HELIODORA ŚWIĘCICKIEGO UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 703882-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/703882-2026"
+},
+{
+"id": "News – AOTMiT:1jmyhu4",
+"kind": "News – AOTMiT",
+"date": "2026-10-12",
+"deadline": false,
+"title": "Stanowisko Rady Przejrzystości 148/2026: Koselugo – negatywna",
+"detail": "Programy: B.155 · Marki: Koselugo",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/138/SRP/261012.286.148%20Koselugo%20artykuł%2035%20zacz%20BIP%20REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:3suqu1",
+"kind": "News – AOTMiT",
+"date": "2026-10-12",
+"deadline": false,
+"title": "RP 42/2026 (2026-10-12): stanowisko – Koselugo (selumetinibum)",
+"detail": "Programy: B.155 · Marki: Koselugo",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261012%20Porz%C4%85dek%20obrad.pdf#p1"
+},
+{
+"id": "Wygrany przetarg konkurenta:11j7uuk",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-09-30",
+"deadline": false,
+"title": "Janssen wygrywa u Wojskowy Instytut Medyczny - Państwowy Instytut Badawczy",
+"detail": "1 części · ibrutinib · 1,05 mln zł",
+"source": "TED 671307-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/671307-2026"
+},
+{
+"id": "AOTMiT – decyzja:juvi30",
+"kind": "AOTMiT – decyzja",
+"date": "2026-09-29",
+"deadline": false,
+"title": "Akeega – rek. 145/2026 (zlecenie 111/2026): rekomendacja negatywna",
+"detail": "B.56 negatywna w wykazie – decyzja po rekomendacji jeszcze nie wydana (oczekuje 27 dni)",
+"source": "AOTMiT 111/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9684-111-2026-zlc"
+},
+{
+"id": "News – AOTMiT:1g9gfwr",
+"kind": "News – AOTMiT",
+"date": "2026-09-29",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 145/2026: Akeega – negatywna",
+"detail": "Programy: B.56 · Marki: Akeega",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/111/REK/Rekomendacja%20145_2026%20Akeega%20Publikacja_REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:z484h9",
+"kind": "News – AOTMiT",
+"date": "2026-09-28",
+"deadline": false,
+"title": "RP 40/2026 (2026-09-28): stanowisko – Akeega (niraparibum + abirateroni acetas)",
+"detail": "Programy: B.56 · Marki: Akeega",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/260928%20Porz%C4%85dek%20obrad.pdf#p2"
+},
+{
+"id": "Wygrany przetarg konkurenta:t1ozxk",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-09-23",
+"deadline": false,
+"title": "Roche wygrywa u Szpital Murcki Sp. z o.o.",
+"detail": "1 części · tocilizumab · 509 963,04 zł",
+"source": "TED 655090-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/655090-2026"
+},
+{
+"id": "AOTMiT – decyzja:haft51",
+"kind": "AOTMiT – decyzja",
+"date": "2026-09-21",
+"deadline": false,
+"title": "Perjeta – rek. 133/2026 (zlecenie 124/2026): rekomendacja/stanowisko",
+"detail": "B.9 pozytywna w wykazie – decyzja po rekomendacji jeszcze nie wydana (oczekuje 35 dni)",
+"source": "AOTMiT 124/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9718-124-2026-zlc"
+},
+{
+"id": "AOTMiT – decyzja:1r8qmpq",
+"kind": "AOTMiT – decyzja",
+"date": "2026-09-21",
+"deadline": false,
+"title": "Phesgo – rek. 132/2026 (zlecenie 123/2026): rekomendacja/stanowisko",
+"detail": "B.9 pozytywna w wykazie – decyzja po rekomendacji jeszcze nie wydana (oczekuje 35 dni)",
+"source": "AOTMiT 123/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9716-123-2026-zlc"
+},
+{
+"id": "News – AOTMiT:cxojc4",
+"kind": "News – AOTMiT",
+"date": "2026-09-21",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 133/2026: Perjeta – pozytywna",
+"detail": "Programy: B.9 · Marki: Perjeta",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/124/REK/2026%2009%2021%20Rekomendacja%20133_2026%20Perjeta_Publikacja_REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:iftrj2",
+"kind": "News – AOTMiT",
+"date": "2026-09-21",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 132/2026: Phesgo – pozytywna",
+"detail": "Programy: B.9 · Marki: Phesgo",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/123/REK/2026%2009%2021%20Rekomendacja%20132_2026%20Phesgo%20Publikacja_REOPTR.pdf"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1dtm9tr",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Keytruda: Zmiana: Program/wskazania (B.xx/C)",
+"detail": "B.5, B.6, B.9, B.148 · B.4.; B.6.; B.9.FM.; B.10.; B.52.; B.58.; B.59.; B.141.FM.; B.148.; B.159. → B.4.; B.5.; B.6.; B.9.FM.; B.10.; B.52.; B.58.; B.59.; B.141.FM.; B.148.; B.159.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:10r58pd",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Nucala: Zmiana: Urzędowa cena zbytu",
+"detail": "B.44, B.75 · 4 212,00 zł → 3 369,60 zł (−20,0%) · 2 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:5ivqus",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Nucala: Zmiana: Limit finansowania",
+"detail": "B.44, B.75 · 4 464,72 zł → 3 571,78 zł (−20,0%) · 2 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:m7he5k",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Zejula: Zmiana: Urzędowa cena zbytu",
+"detail": "B.50 · 19 013,40 zł → 18 522,00 zł (−2,6%) · 2 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:srdtuz",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Zejula: Zmiana: Limit finansowania",
+"detail": "B.50 · 20 154,20 zł → 19 633,32 zł (−2,6%) · 2 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wzrost udziału konkurenta:11brz9y",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Regeneron Ireland Designated Activity Company (DAC) +1,7 pp w Rak płuca",
+"detail": "pacjenci 165 → 437 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1f4rxxs",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "pharmaand +2,0 pp w Rak jajnika",
+"detail": "pacjenci 0 → 108 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:8i0x87",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "AbbVie +3,9 pp w Rak jajnika",
+"detail": "pacjenci 0 → 206 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:5dkp50",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Mabxience Research +1,8 pp w Rak jajnika",
+"detail": "pacjenci 66 → 153 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1c92w6m",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "BeiGene +10,5 pp w Przewlekła białaczka limfocytowa",
+"detail": "pacjenci 797 → 1729 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:ybl90r",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Novartis +4,2 pp w Astma ciężka",
+"detail": "pacjenci 633 → 1223 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:bpwqfr",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Celltrion Healthcare +2,9 pp w Astma ciężka",
+"detail": "pacjenci 0 → 98 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1r1ytpd",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Novartis +12,2 pp w Rak piersi",
+"detail": "pacjenci 3421 → 8443 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:bmo42l",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Eli Lilly +1,6 pp w Rak piersi",
+"detail": "pacjenci 2257 → 3570 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1e9vzc0",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Daiichi Sankyo +1,9 pp w Rak piersi",
+"detail": "pacjenci 793 → 1670 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:17gbpnz",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Bayer +3,6 pp w Rak gruczołu krokowego",
+"detail": "pacjenci 1036 → 1893 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:18l5vky",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "EVER Pharma +2,2 pp w Rak gruczołu krokowego",
+"detail": "pacjenci 817 → 1383 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "AOTMiT – decyzja:uv05wq",
+"kind": "AOTMiT – decyzja",
+"date": "2026-08-28",
+"deadline": false,
+"title": "Tibsovo – rek. 128/2026 (zlecenie 106/2026): rekomendacja/stanowisko",
+"detail": "B.5 pozytywna warunkowa mieszana brak w wykazie",
+"source": "AOTMiT 106/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9671-106-2026-zlc"
+},
+{
+"id": "Wygrany przetarg konkurenta:vhk371",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-28",
+"deadline": false,
+"title": "AbbVie wygrywa u Wojewódzkie Centrum Szpitalne Kotliny Jeleniogórskiej",
+"detail": "1 części · mirvetuximab · 279 999,84 zł",
+"source": "TED 594380-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/594380-2026"
+},
+{
+"id": "AOTMiT – decyzja:lkzd2u",
+"kind": "AOTMiT – decyzja",
+"date": "2026-08-24",
+"deadline": false,
+"title": "Tepmetko – rek. 114/2026 (zlecenie 72/2026): rekomendacja/stanowisko",
+"detail": "B.6 pozytywna brak w wykazie",
+"source": "AOTMiT 72/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9601-72-2026-zlc"
+},
+{
+"id": "Wygrany przetarg konkurenta:1wt8ndr",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-20",
+"deadline": false,
+"title": "Janssen wygrywa u SZPITAL UNIWERSYTECKI W KRAKOWIE",
+"detail": "1 części · ibrutinib · 8,80 mln zł",
+"source": "TED 576743-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/576743-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1stdwjy",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-18",
+"deadline": false,
+"title": "AbbVie wygrywa u Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 571335-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/571335-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1t43j4c",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-11",
+"deadline": false,
+"title": "AbbVie wygrywa u Państwowy Instytut Medyczny Ministerstwa Spraw Wewnętrznych i Administracji",
+"detail": "1 części · mirvetuximab · 699 999,60 zł",
+"source": "TED 554535-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/554535-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:ho5cwa",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-10",
+"deadline": false,
+"title": "Fresenius wygrywa u Wojewódzki Szpital Zespolony im. Ludwika Perzyny w Kaliszu",
+"detail": "1 części · tocilizumab · 787 499,82 zł",
+"source": "TED 551449-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/551449-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:tj0btu",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-07",
+"deadline": false,
+"title": "AbbVie wygrywa u Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie",
+"detail": "1 części · venetoclax · 10,51 mln zł",
+"source": "TED 548652-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/548652-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1qwwct6",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-06",
+"deadline": false,
+"title": "AbbVie wygrywa u SZPITAL UNIWERSYTECKI W KRAKOWIE",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 544696-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/544696-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:1l8j6f",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-08-04",
+"deadline": false,
+"title": "AbbVie wygrywa u Wojewódzki Szpital Zespolony w Plocku",
+"detail": "1 części · mirvetuximab · część wartości nieprawdopodobna (pominięta)",
+"source": "TED 537605-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/537605-2026"
+},
+{
+"id": "AOTMiT – decyzja:1d5oxoq",
+"kind": "AOTMiT – decyzja",
+"date": "2026-07-31",
+"deadline": false,
+"title": "Beyfortus – rek. 112/2026 (zlecenie 53/2026): rekomendacja/stanowisko",
+"detail": "B.40 pozytywna warunkowa brak w wykazie",
+"source": "AOTMiT 53/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9555-53-2026-zlc"
+},
+{
+"id": "AOTMiT – decyzja:1roc5mw",
+"kind": "AOTMiT – decyzja",
+"date": "2026-07-31",
+"deadline": false,
+"title": "Beyfortus – rek. 111/2026 (zlecenie 52/2026): rekomendacja/stanowisko",
+"detail": "B.40 pozytywna warunkowa brak w wykazie",
+"source": "AOTMiT 52/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9553-52-2026-zlc"
+},
+{
+"id": "Wygrany przetarg konkurenta:lhnwx8",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-07-30",
+"deadline": false,
+"title": "AbbVie wygrywa u Państwowy Instytut Medyczny Ministerstwa Spraw Wewnętrznych i Administracji",
+"detail": "1 części · venetoclax · 3,28 mln zł",
+"source": "TED 529481-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/529481-2026"
+}
+]
+}

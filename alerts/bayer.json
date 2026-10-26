@@ -1,0 +1,248 @@
+{
+"company": "Bayer",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "Wygaśnięcie refundacji:1kw82pf",
+"kind": "Wygaśnięcie refundacji",
+"date": "2026-12-31",
+"deadline": true,
+"title": "Eylea B.70: decyzja refundacyjna wygasa 2026-12-31",
+"detail": "Program B.70; brak nowego obwieszczenia z przedłużeniem na dzień 2026-09-16.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wygaśnięcie refundacji:15ssf5p",
+"kind": "Wygaśnięcie refundacji",
+"date": "2026-12-31",
+"deadline": true,
+"title": "Betaferon B.29: decyzja refundacyjna wygasa 2026-12-31",
+"detail": "Program B.29; brak nowego obwieszczenia z przedłużeniem na dzień 2026-09-16.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "AOTMiT – decyzja:juvi30",
+"kind": "AOTMiT – decyzja",
+"date": "2026-09-29",
+"deadline": false,
+"title": "Akeega – rek. 145/2026 (zlecenie 111/2026): rekomendacja negatywna",
+"detail": "B.56 negatywna w wykazie – decyzja po rekomendacji jeszcze nie wydana (oczekuje 27 dni)",
+"source": "AOTMiT 111/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9684-111-2026-zlc"
+},
+{
+"id": "News – AOTMiT:1g9gfwr",
+"kind": "News – AOTMiT",
+"date": "2026-09-29",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 145/2026: Akeega – negatywna",
+"detail": "Programy: B.56 · Marki: Akeega",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/111/REK/Rekomendacja%20145_2026%20Akeega%20Publikacja_REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:z484h9",
+"kind": "News – AOTMiT",
+"date": "2026-09-28",
+"deadline": false,
+"title": "RP 40/2026 (2026-09-28): stanowisko – Akeega (niraparibum + abirateroni acetas)",
+"detail": "Programy: B.56 · Marki: Akeega",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/260928%20Porz%C4%85dek%20obrad.pdf#p2"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:1s8r5w1",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Amvuttra: Zmiana: Urzędowa cena zbytu",
+"detail": "B.162 · 304 233,73 zł → 151 205,40 zł (−50,3%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:6cvbhw",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Amvuttra: Zmiana: Limit finansowania",
+"detail": "B.162 · 306 393,73 zł → 153 365,40 zł (−49,9%)",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:i7gooa",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Amvuttra: Zmiana: Program/wskazania (B.xx/C)",
+"detail": "B.162 · B.170. → B.162.; B.170.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – nowy wpis konkurenta:cb079x",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Dimethyl fumarate Reddy: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.29 · – → B.29. · 2 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – nowy wpis konkurenta:gi7c4u",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Selexipag Polpharma: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.31 · – → B.31. · 9 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – nowy wpis konkurenta:kxvk2u",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Fingolimod Sun: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.29 · – → B.29.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – nowy wpis konkurenta:1cjs6if",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Selexipag Stada: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.31 · – → B.31. · 9 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "MZ – cena / limit / nowy wpis:khlybv",
+"kind": "MZ – cena / limit / nowy wpis",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Uptravi: Zmiana: Limit finansowania",
+"detail": "B.31 · 12 066,19 zł → 8 814,63 zł (−26,9%) · 9 opak.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wzrost udziału konkurenta:1hoht43",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Roche +11,7 pp w AMD – wysiękowe zwyrodnienie plamki (B.70)",
+"detail": "pacjenci 11 006 → 19 363 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:6nyf0i",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "STADA Arzneimittel +7,3 pp w Choroby siatkówki – DME/RVO (B.70)",
+"detail": "pacjenci 3092 → 4772 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:18l5vky",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "EVER Pharma +2,2 pp w Rak gruczołu krokowego",
+"detail": "pacjenci 817 → 1383 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:hz1wzo",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Accord Healthcare +3,0 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 50 → 1065 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:vr9s8j",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Neuraxpharm +1,3 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 0 → 447 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1c1m331",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Roche +2,6 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 3510 → 5072 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:r6wrjv",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Teva +1,6 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 1256 → 2027 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1en9ea6",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "STADA Arzneimittel +1,4 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 0 → 450 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1y1j0nt",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "MSN Labs +3,2 pp w Stwardnienie rozsiane",
+"detail": "pacjenci 0 → 1076 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:1xfbcuc",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Aurovitas Pharma +12,5 pp w Tętnicze nadciśnienie płucne",
+"detail": "pacjenci 199 → 760 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wzrost udziału konkurenta:zdyhb5",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "Merck Sharp & Dohme +1,8 pp w Tętnicze nadciśnienie płucne",
+"detail": "pacjenci 0 → 75 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+}
+]
+}

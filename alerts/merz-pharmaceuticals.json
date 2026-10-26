@@ -1,0 +1,178 @@
+{
+"company": "Merz Pharmaceuticals",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "Przetarg – termin ofert:1sykonq",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-28",
+"deadline": true,
+"title": "Samodzielny Publiczny Szpital Kliniczny Nr 1 im. prof. S. Szyszko SUM w Katowicach: termin składania ofert 2026-10-28",
+"detail": "toksyna botulinowa A · 2 części · Zabrze (śląskie)",
+"source": "TED 656777-2026 (publ. 2026-09-23)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/656777-2026"
+},
+{
+"id": "Przetarg – termin ofert:1onjx0u",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-30",
+"deadline": true,
+"title": "Górnośląskie Centrum Medyczne im. prof. Leszka Gieca Śląskiego Uniwersytetu Medycznego w Katowicach: termin składania ofert 2026-10-30",
+"detail": "toksyna botulinowa A · 3 części · Katowice (śląskie)",
+"source": "TED 714998-2026 (publ. 2026-10-15)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/714998-2026"
+},
+{
+"id": "Przetarg – termin ofert:7wcuq3",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-02",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Stefana Żeromskiego SPZOZ w Krakowie: termin składania ofert 2026-11-02",
+"detail": "toksyna botulinowa A · 2 części · Kraków (małopolskie)",
+"source": "TED 683266-2026 (publ. 2026-10-05)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/683266-2026"
+},
+{
+"id": "Przetarg – termin ofert:stjn8h",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowej Soli: termin składania ofert 2026-11-03",
+"detail": "toksyna botulinowa A · 1 części · Nowa Sól (lubuskie)",
+"source": "TED 682157-2026 (publ. 2026-10-05)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/682157-2026"
+},
+{
+"id": "Przetarg – termin ofert:s13i0",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "SZPITAL UNIWERSYTECKI W KRAKOWIE: termin składania ofert 2026-11-03",
+"detail": "toksyna botulinowa A · 1 części · Kraków (małopolskie)",
+"source": "TED 678366-2026 (publ. 2026-10-02)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/678366-2026"
+},
+{
+"id": "Przetarg – termin ofert:1i4bfl8",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "Szpital Specjalistyczny Ducha Świętego w Sandomierzu: termin składania ofert 2026-11-03",
+"detail": "toksyna botulinowa A · 1 części · Sandomierz (świętokrzyskie)",
+"source": "TED 678985-2026 (publ. 2026-10-02)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/678985-2026"
+},
+{
+"id": "Przetarg – termin ofert:6e66uu",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-03",
+"deadline": true,
+"title": "Samodzielny Zespół Publicznych Zakładów Opieki Zdrowotnej im. „Dzieci Warszawy” w Dziekanowie Leśnym: termin składania ofert 2026-11-03",
+"detail": "toksyna botulinowa A · 1 części · Łomianki (mazowieckie)",
+"source": "TED 681103-2026 (publ. 2026-10-02)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/681103-2026"
+},
+{
+"id": "Przetarg – termin ofert:ep65i0",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-04",
+"deadline": true,
+"title": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji w Łodzi: termin składania ofert 2026-11-04",
+"detail": "toksyna botulinowa A · 1 części · Łódź (łódzkie)",
+"source": "TED 723989-2026 (publ. 2026-10-20)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/723989-2026"
+},
+{
+"id": "Przetarg – termin ofert:412gb5",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-05",
+"deadline": true,
+"title": "Szpital Specjalistyczny im. Stefana Żeromskiego SPZOZ w Krakowie: termin składania ofert 2026-11-05",
+"detail": "toksyna botulinowa A · 2 części · Kraków (małopolskie)",
+"source": "TED 730762-2026 (publ. 2026-10-22)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/730762-2026"
+},
+{
+"id": "Przetarg – termin ofert:1qonu3w",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-06",
+"deadline": true,
+"title": "Zespół Opieki Zdrowotnej w Oświęcimiu: termin składania ofert 2026-11-06",
+"detail": "toksyna botulinowa A · 1 części · Oświęcim (małopolskie)",
+"source": "TED 667724-2026 (publ. 2026-09-29)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/667724-2026"
+},
+{
+"id": "Przetarg – termin ofert:l9jizl",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-13",
+"deadline": true,
+"title": "Samodzielny Publiczny Szpital Wojewódzki im. Papieża Jana Pawła II w Zamościu: termin składania ofert 2026-11-13",
+"detail": "toksyna botulinowa A · 1 części · Zamość (lubelskie)",
+"source": "TED 708093-2026 (publ. 2026-10-14)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/708093-2026"
+},
+{
+"id": "Przetarg – termin ofert:1einiqf",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-16",
+"deadline": true,
+"title": "UNIWERSYTECKI SZPITAL KLINICZNY IM. JANA MIKULICZA-RADECKIEGO WE WROCŁAWIU: termin składania ofert 2026-11-16",
+"detail": "toksyna botulinowa A · 1 części · WROCŁAW (dolnośląskie)",
+"source": "TED 719926-2026 (publ. 2026-10-19)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/719926-2026"
+},
+{
+"id": "Przetarg – termin ofert:83885q",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-16",
+"deadline": true,
+"title": "Szpital im. Ojca Rafała z Proszowic Samodzielny Publiczny Zespół Opieki Zdrowotnej w Proszowicach: termin składania ofert 2026-11-16",
+"detail": "toksyna botulinowa A · 3 części · Proszowice (małopolskie)",
+"source": "TED 695967-2026 (publ. 2026-10-08)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/695967-2026"
+},
+{
+"id": "Przetarg – termin ofert:26nmph",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-19",
+"deadline": true,
+"title": "Zagłębiowskie Centrum Onkologii Szpital Specjalistyczny im. Sz. Starkiewicza w Dąbrowie Górniczej: termin składania ofert 2026-11-19",
+"detail": "toksyna botulinowa A · 3 części · Dąbrowa Górnicza (śląskie)",
+"source": "TED 725629-2026 (publ. 2026-10-20)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/725629-2026"
+},
+{
+"id": "Przetarg – termin ofert:1o9c5vn",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-23",
+"deadline": true,
+"title": "Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie: termin składania ofert 2026-11-23",
+"detail": "toksyna botulinowa A · 1 części · Rzeszów (podkarpackie)",
+"source": "TED 721958-2026 (publ. 2026-10-19)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/721958-2026"
+},
+{
+"id": "Przetarg – termin ofert:p1txdx",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-24",
+"deadline": true,
+"title": "STOBRAWSKIE CENTRUM MEDYCZNE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ: termin składania ofert 2026-11-24",
+"detail": "toksyna botulinowa A · 2 części · Kup (opolskie)",
+"source": "TED 719904-2026 (publ. 2026-10-19)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/719904-2026"
+},
+{
+"id": "Przetarg – termin ofert:onil3z",
+"kind": "Przetarg – termin ofert",
+"date": "2026-11-25",
+"deadline": true,
+"title": "Wojewódzki Szpital Zespolony w Plocku: termin składania ofert 2026-11-25",
+"detail": "toksyna botulinowa A · 1 części · Płock (mazowieckie)",
+"source": "TED 730279-2026 (publ. 2026-10-22)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/730279-2026"
+}
+]
+}

@@ -1,0 +1,845 @@
+{
+"generated": "2026-10-26",
+"companies": [
+{
+"company": "+pharma arzneimittel",
+"slug": "pharma-arzneimittel",
+"items": 9,
+"deadlines": 1,
+"json": "alerts/pharma-arzneimittel.json",
+"rss": "alerts/pharma-arzneimittel.xml"
+},
+{
+"company": "AbbVie",
+"slug": "abbvie",
+"items": 109,
+"deadlines": 30,
+"json": "alerts/abbvie.json",
+"rss": "alerts/abbvie.xml"
+},
+{
+"company": "Ablynx",
+"slug": "ablynx",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/ablynx.json",
+"rss": "alerts/ablynx.xml"
+},
+{
+"company": "Accord Healthcare",
+"slug": "accord-healthcare",
+"items": 75,
+"deadlines": 22,
+"json": "alerts/accord-healthcare.json",
+"rss": "alerts/accord-healthcare.xml"
+},
+{
+"company": "Adamed Pharma",
+"slug": "adamed-pharma",
+"items": 9,
+"deadlines": 1,
+"json": "alerts/adamed-pharma.json",
+"rss": "alerts/adamed-pharma.xml"
+},
+{
+"company": "Advanced Accelerator Applications",
+"slug": "advanced-accelerator-applications",
+"items": 1,
+"deadlines": 1,
+"json": "alerts/advanced-accelerator-applications.json",
+"rss": "alerts/advanced-accelerator-applications.xml"
+},
+{
+"company": "Alexion",
+"slug": "alexion",
+"items": 5,
+"deadlines": 2,
+"json": "alerts/alexion.json",
+"rss": "alerts/alexion.xml"
+},
+{
+"company": "Alfasigma",
+"slug": "alfasigma",
+"items": 51,
+"deadlines": 16,
+"json": "alerts/alfasigma.json",
+"rss": "alerts/alfasigma.xml"
+},
+{
+"company": "Almirall",
+"slug": "almirall",
+"items": 41,
+"deadlines": 16,
+"json": "alerts/almirall.json",
+"rss": "alerts/almirall.xml"
+},
+{
+"company": "Alnylam",
+"slug": "alnylam",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/alnylam.json",
+"rss": "alerts/alnylam.xml"
+},
+{
+"company": "Amgen",
+"slug": "amgen",
+"items": 23,
+"deadlines": 9,
+"json": "alerts/amgen.json",
+"rss": "alerts/amgen.xml"
+},
+{
+"company": "Amicus Therapeutics",
+"slug": "amicus-therapeutics",
+"items": 2,
+"deadlines": 0,
+"json": "alerts/amicus-therapeutics.json",
+"rss": "alerts/amicus-therapeutics.xml"
+},
+{
+"company": "Amomed Pharma",
+"slug": "amomed-pharma",
+"items": 5,
+"deadlines": 0,
+"json": "alerts/amomed-pharma.json",
+"rss": "alerts/amomed-pharma.xml"
+},
+{
+"company": "Astellas Pharma",
+"slug": "astellas-pharma",
+"items": 17,
+"deadlines": 3,
+"json": "alerts/astellas-pharma.json",
+"rss": "alerts/astellas-pharma.xml"
+},
+{
+"company": "AstraZeneca",
+"slug": "astrazeneca",
+"items": 65,
+"deadlines": 17,
+"json": "alerts/astrazeneca.json",
+"rss": "alerts/astrazeneca.xml"
+},
+{
+"company": "Aurovitas Pharma",
+"slug": "aurovitas-pharma",
+"items": 12,
+"deadlines": 0,
+"json": "alerts/aurovitas-pharma.json",
+"rss": "alerts/aurovitas-pharma.xml"
+},
+{
+"company": "Bausch Health",
+"slug": "bausch-health",
+"items": 9,
+"deadlines": 1,
+"json": "alerts/bausch-health.json",
+"rss": "alerts/bausch-health.xml"
+},
+{
+"company": "Baxalta Innovations",
+"slug": "baxalta-innovations",
+"items": 1,
+"deadlines": 0,
+"json": "alerts/baxalta-innovations.json",
+"rss": "alerts/baxalta-innovations.xml"
+},
+{
+"company": "Bayer",
+"slug": "bayer",
+"items": 24,
+"deadlines": 2,
+"json": "alerts/bayer.json",
+"rss": "alerts/bayer.xml"
+},
+{
+"company": "BeiGene",
+"slug": "beigene",
+"items": 32,
+"deadlines": 7,
+"json": "alerts/beigene.json",
+"rss": "alerts/beigene.xml"
+},
+{
+"company": "BioMarin",
+"slug": "biomarin",
+"items": 1,
+"deadlines": 1,
+"json": "alerts/biomarin.json",
+"rss": "alerts/biomarin.xml"
+},
+{
+"company": "Biocon Biologics",
+"slug": "biocon-biologics",
+"items": 62,
+"deadlines": 16,
+"json": "alerts/biocon-biologics.json",
+"rss": "alerts/biocon-biologics.xml"
+},
+{
+"company": "Biocryst",
+"slug": "biocryst",
+"items": 5,
+"deadlines": 1,
+"json": "alerts/biocryst.json",
+"rss": "alerts/biocryst.xml"
+},
+{
+"company": "Biogen",
+"slug": "biogen",
+"items": 12,
+"deadlines": 1,
+"json": "alerts/biogen.json",
+"rss": "alerts/biogen.xml"
+},
+{
+"company": "Blueprint Medicines",
+"slug": "blueprint-medicines",
+"items": 1,
+"deadlines": 1,
+"json": "alerts/blueprint-medicines.json",
+"rss": "alerts/blueprint-medicines.xml"
+},
+{
+"company": "Boehringer Ingelheim",
+"slug": "boehringer-ingelheim",
+"items": 47,
+"deadlines": 19,
+"json": "alerts/boehringer-ingelheim.json",
+"rss": "alerts/boehringer-ingelheim.xml"
+},
+{
+"company": "Bristol-Myers Squibb",
+"slug": "bristol-myers-squibb",
+"items": 98,
+"deadlines": 22,
+"json": "alerts/bristol-myers-squibb.json",
+"rss": "alerts/bristol-myers-squibb.xml"
+},
+{
+"company": "CSL Behring",
+"slug": "csl-behring",
+"items": 1,
+"deadlines": 0,
+"json": "alerts/csl-behring.json",
+"rss": "alerts/csl-behring.xml"
+},
+{
+"company": "Celltrion Healthcare",
+"slug": "celltrion-healthcare",
+"items": 91,
+"deadlines": 21,
+"json": "alerts/celltrion-healthcare.json",
+"rss": "alerts/celltrion-healthcare.xml"
+},
+{
+"company": "Chiesi",
+"slug": "chiesi",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/chiesi.json",
+"rss": "alerts/chiesi.xml"
+},
+{
+"company": "Daiichi Sankyo",
+"slug": "daiichi-sankyo",
+"items": 11,
+"deadlines": 2,
+"json": "alerts/daiichi-sankyo.json",
+"rss": "alerts/daiichi-sankyo.xml"
+},
+{
+"company": "Deciphera Pharmaceuticals",
+"slug": "deciphera-pharmaceuticals",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/deciphera-pharmaceuticals.json",
+"rss": "alerts/deciphera-pharmaceuticals.xml"
+},
+{
+"company": "Dr. Reddy's",
+"slug": "dr-reddy-s",
+"items": 7,
+"deadlines": 0,
+"json": "alerts/dr-reddy-s.json",
+"rss": "alerts/dr-reddy-s.xml"
+},
+{
+"company": "EVER Pharma",
+"slug": "ever-pharma",
+"items": 4,
+"deadlines": 1,
+"json": "alerts/ever-pharma.json",
+"rss": "alerts/ever-pharma.xml"
+},
+{
+"company": "Egis",
+"slug": "egis",
+"items": 9,
+"deadlines": 1,
+"json": "alerts/egis.json",
+"rss": "alerts/egis.xml"
+},
+{
+"company": "Eli Lilly",
+"slug": "eli-lilly",
+"items": 85,
+"deadlines": 22,
+"json": "alerts/eli-lilly.json",
+"rss": "alerts/eli-lilly.xml"
+},
+{
+"company": "Eugia Pharma (Malta)",
+"slug": "eugia-pharma-malta",
+"items": 9,
+"deadlines": 5,
+"json": "alerts/eugia-pharma-malta.json",
+"rss": "alerts/eugia-pharma-malta.xml"
+},
+{
+"company": "Eurocept",
+"slug": "eurocept",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/eurocept.json",
+"rss": "alerts/eurocept.xml"
+},
+{
+"company": "Farco-Pharma",
+"slug": "farco-pharma",
+"items": 1,
+"deadlines": 1,
+"json": "alerts/farco-pharma.json",
+"rss": "alerts/farco-pharma.xml"
+},
+{
+"company": "Ferrer",
+"slug": "ferrer",
+"items": 5,
+"deadlines": 0,
+"json": "alerts/ferrer.json",
+"rss": "alerts/ferrer.xml"
+},
+{
+"company": "Fresenius",
+"slug": "fresenius",
+"items": 68,
+"deadlines": 16,
+"json": "alerts/fresenius.json",
+"rss": "alerts/fresenius.xml"
+},
+{
+"company": "G.L. Pharma",
+"slug": "g-l-pharma",
+"items": 2,
+"deadlines": 0,
+"json": "alerts/g-l-pharma.json",
+"rss": "alerts/g-l-pharma.xml"
+},
+{
+"company": "Gedeon Richter",
+"slug": "gedeon-richter",
+"items": 9,
+"deadlines": 1,
+"json": "alerts/gedeon-richter.json",
+"rss": "alerts/gedeon-richter.xml"
+},
+{
+"company": "Gilead Sciences",
+"slug": "gilead-sciences",
+"items": 14,
+"deadlines": 3,
+"json": "alerts/gilead-sciences.json",
+"rss": "alerts/gilead-sciences.xml"
+},
+{
+"company": "GlaxoSmithKline",
+"slug": "glaxosmithkline",
+"items": 30,
+"deadlines": 12,
+"json": "alerts/glaxosmithkline.json",
+"rss": "alerts/glaxosmithkline.xml"
+},
+{
+"company": "Glenmark Pharmaceuticals",
+"slug": "glenmark-pharmaceuticals",
+"items": 11,
+"deadlines": 1,
+"json": "alerts/glenmark-pharmaceuticals.json",
+"rss": "alerts/glenmark-pharmaceuticals.xml"
+},
+{
+"company": "H. Lundbeck",
+"slug": "h-lundbeck",
+"items": 1,
+"deadlines": 0,
+"json": "alerts/h-lundbeck.json",
+"rss": "alerts/h-lundbeck.xml"
+},
+{
+"company": "H.A.C. Pharma",
+"slug": "h-a-c-pharma",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/h-a-c-pharma.json",
+"rss": "alerts/h-a-c-pharma.xml"
+},
+{
+"company": "Immedica Pharma",
+"slug": "immedica-pharma",
+"items": 1,
+"deadlines": 1,
+"json": "alerts/immedica-pharma.json",
+"rss": "alerts/immedica-pharma.xml"
+},
+{
+"company": "Immunocore",
+"slug": "immunocore",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/immunocore.json",
+"rss": "alerts/immunocore.xml"
+},
+{
+"company": "Incyte Biosciences Distribution",
+"slug": "incyte-biosciences-distribution",
+"items": 19,
+"deadlines": 1,
+"json": "alerts/incyte-biosciences-distribution.json",
+"rss": "alerts/incyte-biosciences-distribution.xml"
+},
+{
+"company": "Instituto Grifols",
+"slug": "instituto-grifols",
+"items": 1,
+"deadlines": 0,
+"json": "alerts/instituto-grifols.json",
+"rss": "alerts/instituto-grifols.xml"
+},
+{
+"company": "Ipsen Pharma",
+"slug": "ipsen-pharma",
+"items": 24,
+"deadlines": 20,
+"json": "alerts/ipsen-pharma.json",
+"rss": "alerts/ipsen-pharma.xml"
+},
+{
+"company": "Janssen",
+"slug": "janssen",
+"items": 99,
+"deadlines": 23,
+"json": "alerts/janssen.json",
+"rss": "alerts/janssen.xml"
+},
+{
+"company": "Jazz Pharmaceuticals",
+"slug": "jazz-pharmaceuticals",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/jazz-pharmaceuticals.json",
+"rss": "alerts/jazz-pharmaceuticals.xml"
+},
+{
+"company": "Juvise Pharmaceuticals",
+"slug": "juvise-pharmaceuticals",
+"items": 9,
+"deadlines": 1,
+"json": "alerts/juvise-pharmaceuticals.json",
+"rss": "alerts/juvise-pharmaceuticals.xml"
+},
+{
+"company": "Kite Pharma",
+"slug": "kite-pharma",
+"items": 11,
+"deadlines": 0,
+"json": "alerts/kite-pharma.json",
+"rss": "alerts/kite-pharma.xml"
+},
+{
+"company": "Krka",
+"slug": "krka",
+"items": 11,
+"deadlines": 1,
+"json": "alerts/krka.json",
+"rss": "alerts/krka.xml"
+},
+{
+"company": "Kyowa Kirin",
+"slug": "kyowa-kirin",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/kyowa-kirin.json",
+"rss": "alerts/kyowa-kirin.xml"
+},
+{
+"company": "LEO Pharma",
+"slug": "leo-pharma",
+"items": 17,
+"deadlines": 9,
+"json": "alerts/leo-pharma.json",
+"rss": "alerts/leo-pharma.xml"
+},
+{
+"company": "Les Laboratoires Servier",
+"slug": "les-laboratoires-servier",
+"items": 16,
+"deadlines": 5,
+"json": "alerts/les-laboratoires-servier.json",
+"rss": "alerts/les-laboratoires-servier.xml"
+},
+{
+"company": "Lobsor Pharmaceuticals",
+"slug": "lobsor-pharmaceuticals",
+"items": 3,
+"deadlines": 1,
+"json": "alerts/lobsor-pharmaceuticals.json",
+"rss": "alerts/lobsor-pharmaceuticals.xml"
+},
+{
+"company": "MSN Labs",
+"slug": "msn-labs",
+"items": 9,
+"deadlines": 0,
+"json": "alerts/msn-labs.json",
+"rss": "alerts/msn-labs.xml"
+},
+{
+"company": "Mabxience Research",
+"slug": "mabxience-research",
+"items": 2,
+"deadlines": 0,
+"json": "alerts/mabxience-research.json",
+"rss": "alerts/mabxience-research.xml"
+},
+{
+"company": "Medical Valley",
+"slug": "medical-valley",
+"items": 2,
+"deadlines": 0,
+"json": "alerts/medical-valley.json",
+"rss": "alerts/medical-valley.xml"
+},
+{
+"company": "Merck",
+"slug": "merck",
+"items": 10,
+"deadlines": 2,
+"json": "alerts/merck.json",
+"rss": "alerts/merck.xml"
+},
+{
+"company": "Merck Sharp & Dohme",
+"slug": "merck-sharp-dohme",
+"items": 30,
+"deadlines": 4,
+"json": "alerts/merck-sharp-dohme.json",
+"rss": "alerts/merck-sharp-dohme.xml"
+},
+{
+"company": "Merz Pharmaceuticals",
+"slug": "merz-pharmaceuticals",
+"items": 17,
+"deadlines": 17,
+"json": "alerts/merz-pharmaceuticals.json",
+"rss": "alerts/merz-pharmaceuticals.xml"
+},
+{
+"company": "Mirum Pharmaceuticals",
+"slug": "mirum-pharmaceuticals",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/mirum-pharmaceuticals.json",
+"rss": "alerts/mirum-pharmaceuticals.xml"
+},
+{
+"company": "Neuraxpharm",
+"slug": "neuraxpharm",
+"items": 7,
+"deadlines": 0,
+"json": "alerts/neuraxpharm.json",
+"rss": "alerts/neuraxpharm.xml"
+},
+{
+"company": "Novartis",
+"slug": "novartis",
+"items": 125,
+"deadlines": 25,
+"json": "alerts/novartis.json",
+"rss": "alerts/novartis.xml"
+},
+{
+"company": "Octapharma",
+"slug": "octapharma",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/octapharma.json",
+"rss": "alerts/octapharma.xml"
+},
+{
+"company": "Orphalan",
+"slug": "orphalan",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/orphalan.json",
+"rss": "alerts/orphalan.xml"
+},
+{
+"company": "Otsuka Pharmaceutical",
+"slug": "otsuka-pharmaceutical",
+"items": 1,
+"deadlines": 1,
+"json": "alerts/otsuka-pharmaceutical.json",
+"rss": "alerts/otsuka-pharmaceutical.xml"
+},
+{
+"company": "POLPHARMA",
+"slug": "polpharma",
+"items": 16,
+"deadlines": 1,
+"json": "alerts/polpharma.json",
+"rss": "alerts/polpharma.xml"
+},
+{
+"company": "Pfizer",
+"slug": "pfizer",
+"items": 113,
+"deadlines": 27,
+"json": "alerts/pfizer.json",
+"rss": "alerts/pfizer.xml"
+},
+{
+"company": "Pierre Fabre Medicament",
+"slug": "pierre-fabre-medicament",
+"items": 10,
+"deadlines": 3,
+"json": "alerts/pierre-fabre-medicament.json",
+"rss": "alerts/pierre-fabre-medicament.xml"
+},
+{
+"company": "Qilu Pharma Spain",
+"slug": "qilu-pharma-spain",
+"items": 3,
+"deadlines": 0,
+"json": "alerts/qilu-pharma-spain.json",
+"rss": "alerts/qilu-pharma-spain.xml"
+},
+{
+"company": "Recordati",
+"slug": "recordati",
+"items": 1,
+"deadlines": 1,
+"json": "alerts/recordati.json",
+"rss": "alerts/recordati.xml"
+},
+{
+"company": "Regeneron Ireland Designated Activity Company (DAC)",
+"slug": "regeneron-ireland-designated-activity-company-dac",
+"items": 9,
+"deadlines": 5,
+"json": "alerts/regeneron-ireland-designated-activity-company-dac.json",
+"rss": "alerts/regeneron-ireland-designated-activity-company-dac.xml"
+},
+{
+"company": "Roche",
+"slug": "roche",
+"items": 95,
+"deadlines": 27,
+"json": "alerts/roche.json",
+"rss": "alerts/roche.xml"
+},
+{
+"company": "SERB",
+"slug": "serb",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/serb.json",
+"rss": "alerts/serb.xml"
+},
+{
+"company": "SIFI S.p.A.",
+"slug": "sifi-s-p-a",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/sifi-s-p-a.json",
+"rss": "alerts/sifi-s-p-a.xml"
+},
+{
+"company": "STADA Arzneimittel",
+"slug": "stada-arzneimittel",
+"items": 64,
+"deadlines": 17,
+"json": "alerts/stada-arzneimittel.json",
+"rss": "alerts/stada-arzneimittel.xml"
+},
+{
+"company": "Samsung Bioepis",
+"slug": "samsung-bioepis",
+"items": 70,
+"deadlines": 16,
+"json": "alerts/samsung-bioepis.json",
+"rss": "alerts/samsung-bioepis.xml"
+},
+{
+"company": "Sandoz",
+"slug": "sandoz",
+"items": 105,
+"deadlines": 19,
+"json": "alerts/sandoz.json",
+"rss": "alerts/sandoz.xml"
+},
+{
+"company": "Sanofi",
+"slug": "sanofi",
+"items": 40,
+"deadlines": 12,
+"json": "alerts/sanofi.json",
+"rss": "alerts/sanofi.xml"
+},
+{
+"company": "Santhera Pharmaceuticals (Deutschland)",
+"slug": "santhera-pharmaceuticals-deutschland",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/santhera-pharmaceuticals-deutschland.json",
+"rss": "alerts/santhera-pharmaceuticals-deutschland.xml"
+},
+{
+"company": "Solinea",
+"slug": "solinea",
+"items": 2,
+"deadlines": 0,
+"json": "alerts/solinea.json",
+"rss": "alerts/solinea.xml"
+},
+{
+"company": "Sun Pharma",
+"slug": "sun-pharma",
+"items": 6,
+"deadlines": 0,
+"json": "alerts/sun-pharma.json",
+"rss": "alerts/sun-pharma.xml"
+},
+{
+"company": "Swedish Orphan Biovitrum",
+"slug": "swedish-orphan-biovitrum",
+"items": 55,
+"deadlines": 17,
+"json": "alerts/swedish-orphan-biovitrum.json",
+"rss": "alerts/swedish-orphan-biovitrum.xml"
+},
+{
+"company": "TMC Pharma (EU)",
+"slug": "tmc-pharma-eu",
+"items": 4,
+"deadlines": 1,
+"json": "alerts/tmc-pharma-eu.json",
+"rss": "alerts/tmc-pharma-eu.xml"
+},
+{
+"company": "Takeda",
+"slug": "takeda",
+"items": 70,
+"deadlines": 21,
+"json": "alerts/takeda.json",
+"rss": "alerts/takeda.xml"
+},
+{
+"company": "Teva",
+"slug": "teva",
+"items": 16,
+"deadlines": 5,
+"json": "alerts/teva.json",
+"rss": "alerts/teva.xml"
+},
+{
+"company": "UCB Pharma",
+"slug": "ucb-pharma",
+"items": 62,
+"deadlines": 17,
+"json": "alerts/ucb-pharma.json",
+"rss": "alerts/ucb-pharma.xml"
+},
+{
+"company": "Vertex Pharmaceuticals",
+"slug": "vertex-pharmaceuticals",
+"items": 1,
+"deadlines": 0,
+"json": "alerts/vertex-pharmaceuticals.json",
+"rss": "alerts/vertex-pharmaceuticals.xml"
+},
+{
+"company": "Via Pharma (UAB)",
+"slug": "via-pharma-uab",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/via-pharma-uab.json",
+"rss": "alerts/via-pharma-uab.xml"
+},
+{
+"company": "Viatris",
+"slug": "viatris",
+"items": 14,
+"deadlines": 5,
+"json": "alerts/viatris.json",
+"rss": "alerts/viatris.xml"
+},
+{
+"company": "Vipharm",
+"slug": "vipharm",
+"items": 2,
+"deadlines": 0,
+"json": "alerts/vipharm.json",
+"rss": "alerts/vipharm.xml"
+},
+{
+"company": "Waymade",
+"slug": "waymade",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/waymade.json",
+"rss": "alerts/waymade.xml"
+},
+{
+"company": "Zentiva",
+"slug": "zentiva",
+"items": 26,
+"deadlines": 7,
+"json": "alerts/zentiva.json",
+"rss": "alerts/zentiva.xml"
+},
+{
+"company": "argenx",
+"slug": "argenx",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/argenx.json",
+"rss": "alerts/argenx.xml"
+},
+{
+"company": "bene Arzneimittel",
+"slug": "bene-arzneimittel",
+"items": 0,
+"deadlines": 0,
+"json": "alerts/bene-arzneimittel.json",
+"rss": "alerts/bene-arzneimittel.xml"
+},
+{
+"company": "brak mapowania EAN→URPL",
+"slug": "brak-mapowania-ean-urpl",
+"items": 1,
+"deadlines": 0,
+"json": "alerts/brak-mapowania-ean-urpl.json",
+"rss": "alerts/brak-mapowania-ean-urpl.xml"
+},
+{
+"company": "pharmaand",
+"slug": "pharmaand",
+"items": 16,
+"deadlines": 5,
+"json": "alerts/pharmaand.json",
+"rss": "alerts/pharmaand.xml"
+}
+]
+}

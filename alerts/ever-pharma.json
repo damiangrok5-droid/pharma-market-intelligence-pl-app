@@ -1,0 +1,48 @@
+{
+"company": "EVER Pharma",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "Przetarg – termin ofert:1xthiwi",
+"kind": "Przetarg – termin ofert",
+"date": "2026-10-26",
+"deadline": true,
+"title": "UNIWERSYTECKI SZPITAL KLINICZNY W POZNANIU: termin składania ofert 2026-10-26",
+"detail": "foslevodopa/foscarbidopa · 1 części · Poznań (wielkopolskie)",
+"source": "TED 669849-2026 (publ. 2026-09-29)",
+"url": "https://ted.europa.eu/pl/notice/-/detail/669849-2026"
+},
+{
+"id": "Wygrany przetarg konkurenta:58f3ow",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-10-13",
+"deadline": false,
+"title": "AbbVie wygrywa u Kliniczny Szpital Wojewódzki im. św. Jadwigi Królowej w Rzeszowie",
+"detail": "1 części · foslevodopa/foscarbidopa · 3,70 mln zł",
+"source": "TED 704256-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/704256-2026"
+},
+{
+"id": "Wzrost udziału konkurenta:1op9us4",
+"kind": "Wzrost udziału konkurenta",
+"date": "2026-09-14",
+"deadline": false,
+"title": "AbbVie +2,9 pp w Choroba Parkinsona",
+"detail": "pacjenci 515 → 732 (07.2024–06.2025 → 07.2025–06.2026)",
+"source": "dane.gov.pl zb. 4897 – 07.2025–06.2026 (publ. 2026-09-14)",
+"url": "https://dane.gov.pl/pl/dataset/4897"
+},
+{
+"id": "Wygrany przetarg konkurenta:1p8qhut",
+"kind": "Wygrany przetarg konkurenta",
+"date": "2026-09-09",
+"deadline": false,
+"title": "AbbVie wygrywa u Samodzielny Publiczny Szpital Wojewódzki im. Papieża Jana Pawła II w Zamościu",
+"detail": "1 części · foslevodopa/foscarbidopa · 271 568,44 zł",
+"source": "TED 619749-2026",
+"url": "https://ted.europa.eu/pl/notice/-/detail/619749-2026"
+}
+]
+}

@@ -1,0 +1,58 @@
+{
+"company": "Alexion",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "Wygaśnięcie refundacji:1xk8563",
+"kind": "Wygaśnięcie refundacji",
+"date": "2026-10-31",
+"deadline": true,
+"title": "Soliris B.95: decyzja refundacyjna wygasa 2026-10-31",
+"detail": "Program B.95; brak nowego obwieszczenia z przedłużeniem na dzień 2026-09-16.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "Wygaśnięcie refundacji:16cggld",
+"kind": "Wygaśnięcie refundacji",
+"date": "2026-12-31",
+"deadline": true,
+"title": "Ultomiris B.157: decyzja refundacyjna wygasa 2026-12-31",
+"detail": "Program B.157; brak nowego obwieszczenia z przedłużeniem na dzień 2026-09-16.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "AOTMiT – decyzja:19rezon",
+"kind": "AOTMiT – decyzja",
+"date": "2026-09-18",
+"deadline": false,
+"title": "Vyvgart – rek. 142/2026 (zlecenie 74/2026): rekomendacja/stanowisko",
+"detail": "B.157 pozytywna warunkowa po ost. obwieszczeniu",
+"source": "AOTMiT 74/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9605-74-2026-zlc"
+},
+{
+"id": "MZ – nowy wpis konkurenta:vx934f",
+"kind": "MZ – nowy wpis konkurenta",
+"date": "2026-09-16",
+"deadline": false,
+"title": "Epysqli: Nowa refundacja – pierwsze ujęcie marki w wykazach MZ",
+"detail": "B.95, B.96 · – → B.95.; B.96.",
+"source": "Obwieszczenie MZ 2026-09-16",
+"url": "https://www.gov.pl/web/zdrowie/obwieszczenie-ministra-zdrowia-z-dnia-16-wrzesnia-2026-r-w-sprawie-wykazu-refundowanych-lekow-srodkow-spozywczych-specjalnego-przeznaczenia-zywieniowego-oraz-wyrobow-medycznych-na-1-pazdziernika-2026-r"
+},
+{
+"id": "AOTMiT – decyzja:16l98c6",
+"kind": "AOTMiT – decyzja",
+"date": "2026-09-11",
+"deadline": false,
+"title": "Aspaveli – rek. 137/2026 (zlecenie 119/2026): rekomendacja/stanowisko",
+"detail": "B.96 pozytywna mieszana w wykazie – decyzja po rekomendacji jeszcze nie wydana (oczekuje 45 dni)",
+"source": "AOTMiT 119/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9706-119-2026-zlc"
+}
+]
+}

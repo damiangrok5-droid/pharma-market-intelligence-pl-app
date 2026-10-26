@@ -1,0 +1,58 @@
+{
+"company": "Biocryst",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "AOTMiT / Rada Przejrzystości:18hlpjx",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-26",
+"deadline": true,
+"title": "RP 44/2026: Dawnzera (donidalorsen) – stanowisko",
+"detail": "Firma: Otsuka Pharmaceutical. Programy: B.122. Przygotowanie stanowiska w sprawie oceny leku Dawnzera (donidalorsen) w ramach programu lekowego B.122. „Leczenie zapobiegawcze chorych z nawracającymi napadami dziedzicznego obrzęku naczynioruchowego o ciężkim przebiegu",
+"source": "AOTMiT BIP – porządek obrad RP 44/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261026%20Porz%C4%85dek%20obrad%20poprawiony.pdf"
+},
+{
+"id": "News – AOTMiT:1twaupj",
+"kind": "News – AOTMiT",
+"date": "2026-10-26",
+"deadline": false,
+"title": "RP 44/2026 (2026-10-26): stanowisko – Dawnzera (donidalorsen)",
+"detail": "Programy: B.122",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261026%20Porz%C4%85dek%20obrad%20poprawiony.pdf#p2"
+},
+{
+"id": "AOTMiT – decyzja:pw9m22",
+"kind": "AOTMiT – decyzja",
+"date": "2026-10-07",
+"deadline": false,
+"title": "Andembry – rek. 153/2026 (zlecenie 82/2026): rekomendacja negatywna",
+"detail": "B.122 negatywna otwarta",
+"source": "AOTMiT 82/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9621-82-2026-zlc"
+},
+{
+"id": "News – AOTMiT:1qjjywi",
+"kind": "News – AOTMiT",
+"date": "2026-10-07",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 153/2026: Andembry – negatywna",
+"detail": "Programy: B.122",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/082/REK/2026%2010%2006%20Rekomendacja%20153_2026%20Andembry%20Biuletyn_REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:5i3yxs",
+"kind": "News – AOTMiT",
+"date": "2026-10-05",
+"deadline": false,
+"title": "RP 41/2026 (2026-10-05): stanowisko – Andembry (garadacimabum)",
+"detail": "Programy: B.122",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261005%20Porz%C4%85dek%20obrad.pdf#p3"
+}
+]
+}

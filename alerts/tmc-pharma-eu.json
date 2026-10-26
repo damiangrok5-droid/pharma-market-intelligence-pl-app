@@ -1,0 +1,48 @@
+{
+"company": "TMC Pharma (EU)",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "AOTMiT / Rada Przejrzystości:6j97es",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-28",
+"deadline": true,
+"title": "RP 45/2026: Keytruda (pembrolizumab) – stanowisko",
+"detail": "Firma: Merck Sharp & Dohme. Programy: B.52. Przygotowanie stanowisk w sprawie oceny leku Keytruda (pembrolizumab) w ramach programów lekowych: • B.58. „Leczenie chorych na raka przełyku, połączenia żołądkowo- przełykowego i żołądka (ICD-10: C15-C16)”, • B.5. „Lecz",
+"source": "AOTMiT BIP – porządek obrad RP 45/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261028%20Porz%C4%85dek%20obrad.pdf"
+},
+{
+"id": "AOTMiT – decyzja:105a1u8",
+"kind": "AOTMiT – decyzja",
+"date": "2026-10-07",
+"deadline": false,
+"title": "Tevimbra – rek. 152/2026 (zlecenie 105/2026): rekomendacja/stanowisko",
+"detail": "B.52 pozytywna warunkowa mieszana po ost. obwieszczeniu",
+"source": "AOTMiT 105/2026",
+"url": "https://bip.aotm.gov.pl/zlecenia-mz-2026/1125-materialy-2026/9669-105-2026-zlc"
+},
+{
+"id": "News – AOTMiT:gefl4f",
+"kind": "News – AOTMiT",
+"date": "2026-10-07",
+"deadline": false,
+"title": "Rekomendacja Prezesa AOTMiT 152/2026: Tevimbra – pozytywna warunkowa",
+"detail": "Programy: B.52 · Marki: Tevimbra",
+"source": "AOTMiT – rekomendacje i stanowiska RP (BIP)",
+"url": "https://bip.aotm.gov.pl/assets/files/zlecenia_mz/2026/105/REK/2026%2010%2007%20Rekomendacja%20152_2026%20Tevimbra%20Biuletyn_REOPTR.pdf"
+},
+{
+"id": "News – AOTMiT:1jz9vb5",
+"kind": "News – AOTMiT",
+"date": "2026-10-05",
+"deadline": false,
+"title": "RP 41/2026 (2026-10-05): stanowisko – Tevimbra (tislelizumabum)",
+"detail": "Programy: B.52 · Marki: Tevimbra",
+"source": "AOTMiT – Rada Przejrzystości (punkt porządku)",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261005%20Porz%C4%85dek%20obrad.pdf#p2"
+}
+]
+}

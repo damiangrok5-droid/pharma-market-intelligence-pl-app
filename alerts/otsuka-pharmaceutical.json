@@ -1,0 +1,18 @@
+{
+"company": "Otsuka Pharmaceutical",
+"generated": "2026-10-26",
+"data_as_of": "2026-09-16",
+"note": "Alerty generowane z danych publicznych (MZ, AOTMiT, NFZ, TED, news). Każdy element ma źródło i datę.",
+"items": [
+{
+"id": "AOTMiT / Rada Przejrzystości:18hlpjx",
+"kind": "AOTMiT / Rada Przejrzystości",
+"date": "2026-10-26",
+"deadline": true,
+"title": "RP 44/2026: Dawnzera (donidalorsen) – stanowisko",
+"detail": "Mój produkt. Przygotowanie stanowiska w sprawie oceny leku Dawnzera (donidalorsen) w ramach programu lekowego B.122. „Leczenie zapobiegawcze chorych z nawracającymi napadami dziedzicznego obrzęku naczynioruchowego o ciężkim przebiegu",
+"source": "AOTMiT BIP – porządek obrad RP 44/2026",
+"url": "https://bip.aotm.gov.pl/assets/files/rada/Porzadek_RP/2026/261026%20Porz%C4%85dek%20obrad%20poprawiony.pdf"
+}
+]
+}
