@@ -280,6 +280,8 @@ details.othm>summary,details.r5wl>summary{cursor:pointer}
 .ctxbar .chip{border:0;cursor:pointer;font:inherit;font-size:13px;min-height:32px;padding:4px 12px;color:var(--text)}
 .ctxbar .chip.x{padding:4px 10px;color:var(--muted)}
 .ctxbar select{min-height:32px;font-size:13px}
+.ctxbar .chip[disabled],.ctxbar select[disabled]{opacity:.45;cursor:not-allowed}
+.ctxbar .ctxna{font-size:12px;flex-basis:100%;line-height:1.35}
 .navbar .ttl{opacity:1;transform:none}
 .gsbtn{display:inline-flex!important;height:auto!important;align-items:center;gap:6px;min-height:36px;width:auto!important;padding:4px 12px!important;white-space:nowrap}
 .gsbtn .gsk{font-size:13px}.gsbtn kbd{font:inherit;font-size:12px;border:1px solid var(--line);border-radius:5px;padding:0 5px;color:var(--muted)}
@@ -306,6 +308,7 @@ tr.pin td{border-bottom:1.5px solid var(--accent)}
  .ctxbar{top:50px;padding:6px 12px;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}.ctxbar::-webkit-scrollbar{display:none}
  .ctxbar .flab{display:none}
  .ctxbar .chip,.ctxbar select{min-height:44px;white-space:nowrap}
+ .ctxbar .ctxna{flex-basis:auto;white-space:nowrap;font-size:11px}
  .gsbtn{min-width:44px;min-height:44px;justify-content:center}.gsbtn .gsk{display:none}
  .navbar .ttl{white-space:normal;line-height:1.2;font-size:15px;overflow:visible;text-overflow:clip}
  .subtabs{flex-wrap:nowrap;overflow-x:auto;width:auto;scrollbar-width:none}.subtabs::-webkit-scrollbar{display:none}
@@ -370,3 +373,17 @@ html{overflow-x:clip}
  .tabbar{padding-left:max(4px,env(safe-area-inset-left));padding-right:max(4px,env(safe-area-inset-right))}
  .sheet{padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right))}
  #gsearch .gs-box{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}}
+
+/* R6h: Obszar / programy lekowe */
+.ctxbar .ctxpf{font-size:12px;flex-basis:100%;line-height:1.35}
+.pfsheet{position:fixed;inset:0;z-index:60;background:rgba(0,0,0,.35);display:flex;align-items:flex-start;justify-content:center;padding:70px 12px 12px}
+.pfbox{background:var(--card,#fff);color:var(--text);border-radius:14px;box-shadow:0 10px 40px rgba(0,0,0,.3);width:min(620px,100%);max-height:calc(100vh - 90px);display:flex;flex-direction:column;padding:12px 14px}
+.pfh{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.pfareas{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}.pfareas .chip{border:0;cursor:pointer;font:inherit;font-size:13px;min-height:32px}
+#pfq{width:100%;margin-bottom:6px}
+.pflist{overflow:auto;flex:1;min-height:80px}.pfg{margin:6px 0}.pfgl{font-size:11px;text-transform:uppercase;font-weight:600;letter-spacing:.02em;margin:4px 0}
+.pfrow{display:flex;gap:6px;align-items:flex-start;padding:6px 2px;font-size:13px;cursor:pointer}.pfrow input{margin-top:2px}
+.pff{display:flex;align-items:center;gap:8px;padding-top:8px;border-top:.5px solid var(--sep)}.pff .grow{flex:1}
+@media (max-width:600px){.pfsheet{align-items:flex-end;padding:0}.pfbox{border-radius:16px 16px 0 0;max-height:85vh;width:100%;padding-bottom:calc(12px + env(safe-area-inset-bottom))}
+ .pfareas{flex-wrap:nowrap;overflow-x:auto}.pfareas .chip{white-space:nowrap;min-height:44px}.pfrow{min-height:44px;align-items:center}.pff .btn{min-height:44px}
+ .ctxbar .ctxpf{flex-basis:auto;white-space:nowrap;font-size:11px}}

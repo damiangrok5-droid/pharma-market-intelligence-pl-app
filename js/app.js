@@ -64,7 +64,7 @@ function table(cols,rows,o={}){
     };
     draw();
   });
-  return `<div id="${id}"><div class="tbar">${o.search===false?"":'<input type="search" placeholder="Szukaj…">'}<span class="muted cnt"></span><span class="grow"></span><button class="btn sm ghost csv">Eksport CSV</button></div>
+  return `<div id="${id}"><div class="tbar">${o.search===false||!(rows&&rows.length)?"":'<input type="search" placeholder="Szukaj…">'}<span class="muted cnt"></span><span class="grow"></span><button class="btn sm ghost csv">Eksport CSV</button></div>
   <div class="tablewrap"><table><thead><tr>${cols.map(c=>`<th class="${c.n?"n":""}" title="${esc(c.t||"Sortuj")}">${esc(c.h)}</th>`).join("")}</tr></thead><tbody></tbody></table></div><button class="btn sm ghost more" hidden></button><div class="pgr" hidden style="display:none;margin:6px 0;gap:8px;align-items:center"><button class="btn sm ghost pp" aria-label="Poprzednia strona">‹ Poprz.</button> <span class="muted pi"></span> <button class="btn sm ghost pn" aria-label="Następna strona">Nast. ›</button></div>${o.src||""}</div>`;
 }
 // ---------- wykresy ----------
@@ -173,7 +173,8 @@ const tedRx=s=>TEDAL[s]||new RegExp(reEsc(String(s).split("/")[0].slice(0,6)),"i
 const TEDS=[...new Set(D.tenders.map(t=>t.s))];
 const tnrm=x=>String(x||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/ph/g,"f").replace(/th/g,"t").replace(/k/g,"c").replace(/y/g,"i").replace(/[^a-z]/g,"");
 // dopasowanie substancji TED (nazwy angielskie) do INN z obwieszczenia (łacina/polski): wzorzec ręczny lub 6 pierwszych liter po normalizacji (secukinumab ↔ Sekukinumab)
-const tedSubs=(c,all)=>{if(!c) return new Set(TEDS); const inns=cProds(c).filter(p=>p.lists.includes("B")&&(all||p.current)).map(p=>p.inn||""); const ni=inns.map(tnrm); return new Set(TEDS.filter(s=>inns.some(i=>tedRx(s).test(i))||(!TEDAL[s]&&tnrm(String(s).split("/")[0]).length>=6&&ni.some(i=>i.includes(tnrm(String(s).split("/")[0]).slice(0,6))))));};
+const tedSubs=(c,all)=>{const r=tedSubs0(c,all); return window.PF&&PF.on()?new Set([...r].filter(s=>PF.subOk(s))):r;};
+const tedSubs0=(c,all)=>{if(!c) return new Set(TEDS); const inns=cProds(c).filter(p=>p.lists.includes("B")&&(all||p.current)).map(p=>p.inn||""); const ni=inns.map(tnrm); return new Set(TEDS.filter(s=>inns.some(i=>tedRx(s).test(i))||(!TEDAL[s]&&tnrm(String(s).split("/")[0]).length>=6&&ni.some(i=>i.includes(tnrm(String(s).split("/")[0]).slice(0,6))))));};
 const winRx=c=>new RegExp(reEsc(String(c).split(/[\s(,]/)[0]),"i");
 // ---------- nawigacja ----------
 const VIEWS=[...((window.R1&&window.R1.VIEWS)||[]),["przeglad","Przegląd"],["produkty","Produkty"],["rynek","Rynek i pacjenci"],["konkurencja","Konkurencja i udziały"],["firmy","Firmy"],["pacjenci","Pacjenci i rozpoznania"],["demografia","Demografia"],["sciezka","Ścieżka pacjenta"],["placowki","Placówki"],["refundacja","Refundacja"],["przetargi","Przetargi"],["alerty","Alerty i wnioski"],["zrodla","Źródła i luki"]];
@@ -495,9 +496,13 @@ const LIC=[["dane.gov.pl (NFZ, MZ, GUS)","Informacja publiczna udostępniana do 
  ["ClinicalTrials.gov (NLM)","Dane w domenie publicznej wg Terms and Conditions ClinicalTrials.gov; wymagane wskazanie źródła i daty pobrania; dane kontaktowe usunięte."],
  ["Prasa / serwisy branżowe","Wyłącznie tytuł, krótki lead i link do oryginału (prawo cytatu / prawo do informacji); pełne treści nie są kopiowane."]];
 function licOf(x){const t=((x.name||"")+" "+(x.url||"")).toLowerCase(); const m=[[/ted\.europa|\bted\b/,6],[/clinicaltrials/,8],[/ema\.europa|\bema\b/,7],[/dane\.gov|zb\.|zbiór/,0],[/gus|bdl|stat\.gov/,5],[/aotm/,3],[/urpl|rejestry\.ezdrowie|rpl/,4],[/nfz|app-stat/,1],[/gov\.pl|mz\b|obwieszcz|ministerstw/,2],[/prasa|rynekzdrowia|pulsmedycyny|medexpress|termedia|news|pap\.pl|mgr\.farm/,9]].find(([r])=>r.test(t)); return m?LIC[m[1]][1].split(";")[0]:"Informacja publiczna – podawane źródło i data pobrania.";}
+// R6h: Źródła – nazwy zrozumiałe dla użytkownika zamiast nazw plików/tabel wewnętrznych
+const plainSrc=t=>String(t==null?"":t).replace(/\s*\((?:plik )?data\/[\w.\/-]+\.js\)/g,"").replace(/plik ext\/out\/[\w.-]+\.js, ładowany przez [\w.]+\.js/g,"osobny plik danych ładowany")
+  .replace(/w bazie SQLite \(tabela mz_events\) i /g,"").replace(/\b[\w\/-]+\.(?:py|db|sqlite)\b/g,"baza projektu").replace(/\bsource_url\b/g,"adres źródła");
+const plainRows=L=>L.map(x=>Object.fromEntries(Object.entries(x).map(([k,v])=>[k,k==="url"?v:plainSrc(v)])));
 function vSources(){
-  return `<h1>Źródła i luki danych</h1><p class="sub">Każdy rekord ma source_url i datę pobrania. Poniżej źródła, zakres i znane luki.</p>
-  <div class="card"><h2>Źródła</h2>${table([{h:"Źródło",k:"name"},{h:"Zakres",k:"scope"},{h:"URL",k:"url",f:x=>`<a href="${esc(x.url)}" target="_blank">${esc(x.url)}</a>`},{h:"Pobrano",k:"retrieved"},{h:"Licencja / warunki ponownego wykorzystania",v:x=>licOf(x),f:x=>esc(licOf(x))}],D.sources.concat((window.DATA2||{}).sources||[]),{name:"zrodla",search:false})}</div>
+  return `<h1>Źródła i luki danych</h1><p class="sub">Każdy rekord ma adres źródła i datę pobrania. Poniżej źródła, zakres i znane luki.</p>
+  <div class="card"><h2>Źródła</h2>${table([{h:"Źródło",k:"name"},{h:"Zakres",k:"scope"},{h:"URL",k:"url",f:x=>`<a href="${esc(x.url)}" target="_blank">${esc(x.url)}</a>`},{h:"Pobrano",k:"retrieved"},{h:"Licencja / warunki ponownego wykorzystania",v:x=>licOf(x),f:x=>esc(licOf(x))}],plainRows(D.sources.concat((window.DATA2||{}).sources||[])),{name:"zrodla",search:false})}</div>
   <div class="card"><h2>Warunki ponownego wykorzystania i zasady prezentacji</h2><ul style="margin:0;padding-left:18px;line-height:1.55">${LIC.map(([k,t])=>`<li><b>${esc(k)}</b>: ${esc(t)}</li>`).join("")}</ul>
    <h3>Zasady stosowane w aplikacji</h3><ul style="margin:0;padding-left:18px;line-height:1.55">
    <li>Liczby pacjentów 1–4 są ukrywane („&lt;5”), także w wartościach pochodnych (%, sumy) – z ukryciem komplementarnym, gdy jedna komórka pozwoliłaby odtworzyć drugą.</li>
@@ -506,7 +511,7 @@ function vSources(){
    <li>Daty zleceń/rekomendacji AOTMiT: gdy data w BIP jest niespójna (np. data rekomendacji wcześniejsza niż data zlecenia – zlecenie 80/2022: rek. 2021-12-01), aplikacja oznacza ją „data skorygowana” i do obliczeń czasu procedury używa daty stanowiska Rady Przejrzystości / publikacji; wartość źródłowa pozostaje w bazie.</li>
    <li>Artykuły prasowe: pokazywany jest wyłącznie tytuł, krótki lead i link do źródła – bez kopiowania treści.</li>
    <li>Wartości „szacunek” są wyliczone z danych publicznych według opisanej przy nich metody (współczynnik i rok podane w etykiecie).</li></ul></div>
-  <div class="card"><h2>Luki i źródła zablokowane</h2>${table([{h:"Obszar",k:"area"},{h:"Luka",k:"gap"},{h:"Skutek w aplikacji",k:"impact"}],D.gaps.concat((window.DATA2||{}).gaps||[]),{name:"luki",search:false})}</div>
+  <div class="card"><h2>Luki i źródła zablokowane</h2>${table([{h:"Obszar",k:"area"},{h:"Luka",k:"gap"},{h:"Skutek w aplikacji",k:"impact"}],plainRows(D.gaps.concat((window.DATA2||{}).gaps||[])),{name:"luki",search:false})}</div>
   <div class="card"><h2>Obwieszczenia MZ w bazie (${D.meta.announcements.length})</h2>${table([{h:"Data obwieszczenia",k:"announcement_date"},{h:"Strona gov.pl",k:"page",f:x=>`<a href="${esc(x.page)}" target="_blank">${esc(x.page.replace("https://www.gov.pl/web/zdrowie/","").slice(0,110))}</a>`},{h:"Plik xlsx",k:"url",f:x=>`<a href="${esc(x.url)}" target="_blank">załącznik</a>`},{h:"Pobrano",k:"retrieved"}],D.meta.announcements.slice().reverse(),{name:"obwieszczenia",search:false})}</div>`;
 }
 // ---------- start ----------
