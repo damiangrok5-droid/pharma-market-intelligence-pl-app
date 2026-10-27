@@ -16,7 +16,7 @@ function nk(t){let s=String(t||""); try{const c=R1()&&R1().CF(); if(c) s=s.split
   try{(window.PF&&PF.AREAS||[]).forEach(a=>{s=s.split(a[1]).join("{O}");});}catch(e){}
   s=s.replace(/^(największe wskazanie)\s*:.*$/i,"$1"); /* tytuł z nazwą wskazania – klucz stały */
   return s.replace(/B\.\d+/g,"B").replace(MON,"M").replace(/[0-9][0-9\s.,%:\/–\-]*/g,"#").replace(/\s+/g," ").trim().toLowerCase().slice(0,44);}
-const SKIP=/^(jak liczon|metodolog|pomoc|objaśnien|filtr „obszar” – mapowanie)/i;
+const SKIP=/^(jak liczon|metodolog|pomoc|objaśnien|filtr „obszar” – mapowanie|firma nie wybrana)/i; /* „Firma nie wybrana” = zaślepka bez liczby */
 function units(){const app=document.getElementById("app"); if(!app) return []; const v=vkey(); const out=[], occ={};
   app.querySelectorAll(".card, .takeaway").forEach(u=>{
     if(u.matches(".r6tabs, .pfsheet, .jgpop")||u.closest(".ctxbar,#gsearch,.sheet")) return;
@@ -32,7 +32,12 @@ const SRCN=[[/zb\.\s*4897|4897/i,"NFZ zb. 4897"],[/raport refundac|refundacyjn/i
   [/obwieszcz/i,"MZ obwieszczenie"],[/\bTED\b/,"TED"],[/AOTMiT|Rada Przejrzysto/i,"AOTMiT"],[/URPL|Rejestr Produkt/i,"URPL"],[/\bEMA\b/,"EMA"],[/\bGUS\b/,"GUS"],[/clinicaltrials|ClinicalTrials/i,"ClinicalTrials.gov"],[/umow|UMW/i,"NFZ umowy"]];
 function srcOf(u){const s=[...u.querySelectorAll(".src")].map(x=>x.textContent).join(" ")||u.getAttribute("title")||""; if(!s) return ""; for(const [re,n] of SRCN) if(re.test(s)) return n; return "";}
 const WHY={co:"Ten element nie zależy od wybranej firmy – pokazuje cały rynek.",pg:"Ten element nie zmienia się po wyborze obszaru/programu.",ow:"Ten element nie dzieli się na województwa – pokazuje całą Polskę.",per:"Ten element ma własny okres (podany w tytule lub źródle), nie okres udziałów z paska."};
-function entry(key){const M=window.R7MAP||{}; return M[key]||M[key.replace(/#\d+$/,"#1")]||null;}
+/* klucz z nazwą substancji / marki / wskazania (np. „adalimumab – trend roczny”) – dopasuj element tego samego widoku i rodzaju o najbardziej podobnym tytule (≥50% słów krótszego tytułu wspólnych) */
+const TOK=t=>new Set((t.toLowerCase().match(/[a-ząćęłńóśźż{}]{3,}/g)||[])); const FB={};
+function entry(key){const M=window.R7MAP||{}; const e=M[key]||M[key.replace(/#\d+$/,"#1")]; if(e) return e; if(key in FB) return FB[key];
+  const i=key.indexOf("|"), j=key.indexOf(":",i), pre=key.slice(0,j+1), A=TOK(key.slice(j+1).replace(/#\d+$/,"")); let best=null, bs=0;
+  if(A.size) Object.keys(M).forEach(k=>{if(!k.startsWith(pre)) return; const B=TOK(k.slice(j+1).replace(/#\d+$/,"")); let n=0; A.forEach(x=>{if(B.has(x)) n++;}); let sc=n/Math.min(A.size,B.size)+0.01*n/(A.size+B.size-n); const hA=key.slice(j+1).split(" – ")[0], hB=k.slice(j+1).split(" – ")[0]; if(hA.length>=6&&hA===hB&&key.slice(j+1).includes(" – ")&&k.slice(j+1).includes(" – ")) sc=Math.max(sc,0.5+0.01*n); /* ten sam początek tytułu przed „–” */ if(sc>bs){bs=sc; best=k;}});
+  return FB[key]=(bs>=0.5?M[best]:null);}
 function chipFor(u,m){const r1=R1(); if(!r1) return null; const cf=r1.CF(), pf=!!(window.PF&&PF.on()), ow=r1.owList(), per=r1.P4.cur, perOn=per!=="R2026";
   const W=[], P=[]; const why=k=>((m&&m.why&&m.why[k])||WHY[k]);
   if(!m){P.push("zakres niezweryfikowany automatycznie"); return {P,W,src:srcOf(u)};}
