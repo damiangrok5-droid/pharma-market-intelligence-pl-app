@@ -387,3 +387,15 @@ html{overflow-x:clip}
 @media (max-width:600px){.pfsheet{align-items:flex-end;padding:0}.pfbox{border-radius:16px 16px 0 0;max-height:85vh;width:100%;padding-bottom:calc(12px + env(safe-area-inset-bottom))}
  .pfareas{flex-wrap:nowrap;overflow-x:auto}.pfareas .chip{white-space:nowrap;min-height:44px}.pfrow{min-height:44px;align-items:center}.pff .btn{min-height:44px}
  .ctxbar .ctxpf{flex-basis:auto;white-space:nowrap;font-size:11px}}
+/* R7: etykieta zakresu przy każdym elemencie */
+.r7sc{display:flex;flex-wrap:wrap;gap:4px 6px;align-items:center;margin:2px 0 8px;font-size:12px;line-height:1.35;min-width:0;max-width:100%;font-weight:400;letter-spacing:0;text-transform:none}
+.r7z{color:var(--muted);overflow-wrap:anywhere;min-width:0}
+.r7w{font:inherit;font-size:12px;font-weight:600;border:1.5px solid var(--warn);background:color-mix(in srgb,var(--warn) 12%,transparent);color:var(--warnT);border-radius:999px;padding:2px 10px;cursor:pointer;white-space:normal;text-align:left;max-width:100%;min-height:26px;overflow-wrap:anywhere;touch-action:manipulation}
+.r7w:active{opacity:.7}
+.r7w:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.r7unk .r7z{font-style:italic}
+.kpi .r7sc{margin:2px 0 6px}
+.takeaway+.r7sc{margin-top:-4px}
+.rcard .r7sc{margin:0}
+@media (max-width:600px){.r7sc{gap:6px}.r7w{min-height:32px;padding:4px 10px}}
+@media print{.r7w{border-width:1px}}
